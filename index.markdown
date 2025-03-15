@@ -4,7 +4,7 @@ permalink: /
 nav_order: 1
 ---
 
-## **Xiaohui LUO** (罗 晓慧)
+## **Xiaohui LUO** (罗晓慧)
 
 Ph.D. Student in Psychological Statistics and Psychometrics, Beijing Normal University (BNU), China
 
