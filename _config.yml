@@ -28,8 +28,16 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-# 侧边栏设置
 just_the_docs:
   heading_anchors: true
   nav_depth: 2
+  nav_sort: manual
+
+nav:
+  - title: "Home"
+    url: /
+  - title: "Experiences"
+    url: /experiences/
+  - title: "Publications"
+    url: /publications/
 
