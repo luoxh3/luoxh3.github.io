@@ -2,7 +2,7 @@ title: Xiaohui Luo
 description: Ph.D. student in Psychological Statistics and Psychometrics at Beijing Normal University.
 author: Xiaohui Luo
 email: xiaohui_luo@mail.bnu.edu.cn
-baseurl: ""  # 如果你的 GitHub Pages 网址是 `luoxh3.github.io/my-site`，请改为 "/my-site"
+baseurl: ""  
 url: "https://luoxh3.github.io"
 twitter_username: ""
 github_username: luoxh3
@@ -28,8 +28,10 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-# Just the Docs 主题的导航结构
-nav_order:
-  - Home
-  - Publications
-  - CV
+# 侧边栏设置
+just_the_docs:
+  enable_nav: true
+  heading_anchors: true
+  search_enabled: true
+  nav_order: true
+  nav_depth: 2  
