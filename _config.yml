@@ -28,9 +28,8 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-# Just the Docs 主题的导航结构（请确保你的 .md 文件里有 `nav_order` ）
-nav_order: 
-  - index.md
-  - publications.md
-  - cv.md
-  - contact.md
+# Just the Docs 主题的导航结构
+nav_order:
+  - Home
+  - Publications
+  - CV
