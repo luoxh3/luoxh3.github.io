@@ -28,7 +28,7 @@ twitter_username: #
 github_username: luoxh3
 
 # Build settings
-remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll  # 使用本地主题
 plugins:
   - jekyll-feed
 
