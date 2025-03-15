@@ -30,8 +30,6 @@ exclude:
 
 # 侧边栏设置
 just_the_docs:
-  enable_nav: true
   heading_anchors: true
-  search_enabled: true
-  nav_order: true
-  nav_depth: 2  
+  nav_depth: 2
+

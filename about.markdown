@@ -1,8 +1,10 @@
 ---
 title: "Home"
 permalink: /
-nav_order: 1
-layout: single  
+nav_order: 2
+layout: default 
+description: "Xiaohui LUO's academic profile."
+toc: true
 ---
 
 ## Xiaohui LUO (罗 晓慧)
@@ -11,9 +13,13 @@ layout: single
 **Beijing Normal University (BNU), China**  
 **Email**: xiaohui_luo@mail.bnu.edu.cn | [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=fyGml2AAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Xiaohui-Luo-9)
 
-### 🔍 About Me
+---
 
-I am a Ph.D. student in **Psychological Statistics and Psychometrics** at Beijing Normal University (BNU), under the supervision of **Prof. Hongyun Liu**. My research focuses on **Intensive Longitudinal Analysis**, **Multilevel Modeling**, **Structural Equation Modeling**, and **Bayesian Estimation**. I am particularly interested in exploring dynamic processes, time-related issues, and heterogeneity in psychological data, with applications in clinical-health and developmental psychology.
+## 🔍 About Me
+
+I am a Ph.D. student in **Psychological Statistics and Psychometrics** at Beijing Normal University (BNU), under the supervision of **Prof. Hongyun Liu**.
+
+My research focuses on **Intensive Longitudinal Analysis**, **Multilevel Modeling**, **Structural Equation Modeling**, and **Bayesian Estimation**. I am particularly interested in exploring dynamic processes, time-related issues, and heterogeneity in psychological data, with applications in clinical-health and developmental psychology.
 
 ---
 
