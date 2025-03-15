@@ -41,4 +41,3 @@ permalink: /publications/
 24. **Luo, X.**, Liu, Y., & Liu, H.\* (2024, Oct). Incorporating qualitative distinctions in within-person effect analysis. In *the 2024 Annual Society of Multivariate Experimental Psychology Conference.*
 25. **Luo, X.**, Hu, Y., & Liu, H.\* (2023, July). Assessing between- and within-person reliabilities of items and scale for daily procrastination: A multilevel and dynamic approach. In *the 2023 Meeting of International Society for Data Science and Analytics.*
 26. Qu, W., **Luo, X.**, Hou, J., & Ge, Y.\* (2023, July). Impact of locus of control on dangerous driving behavior and positive driving behavior in China. In *2023 International Conference on Human-Computer Interaction.*
----
