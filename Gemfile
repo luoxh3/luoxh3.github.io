@@ -3,8 +3,8 @@ source "https://rubygems.org"
 # Jekyll 版本
 gem "jekyll", "~> 4.4.1"
 
-# Minimal Mistakes 主题
-gem "minimal-mistakes-jekyll", "~> 4.24.0"
+# Just the Docs 主题
+gem "just-the-docs"
 
 # 插件
 group :jekyll_plugins do
