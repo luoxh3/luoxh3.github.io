@@ -20,3 +20,5 @@ end
 
 # JRuby 相关依赖
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
+
+ruby "3.3.7"
