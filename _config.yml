@@ -18,19 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-
 title: Xiaohui Luo
 description: Ph.D. student in Psychological Statistics and Psychometrics at Beijing Normal University.
 author: Xiaohui Luo
 email: xiaohui_luo@mail.bnu.edu.cn
-
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://luoxh3.github.io"
+twitter_username: #
+github_username: luoxh3
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
