@@ -28,7 +28,7 @@ My research focuses on **Intensive Longitudinal Analysis**, **Multilevel Modelin
 
 Welcome to my personal academic website. Here, you can find more about my research and publications.
 
-- [Experiences](/experience/) – Learn more about my background and research interests.
+- [Experiences](/experiences/) – Learn more about my background and research interests.
 - [Publications](/publications/) – See my published work, ongoing research, and conference presentations.
 
 ---
