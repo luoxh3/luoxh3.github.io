@@ -8,7 +8,7 @@ permalink: /experiences/
 ### **Ph.D. in Psychological Statistics and Psychometrics (2023 - 2028)**
 **Beijing Normal University (BNU), China**  
 - Advisor: [Prof. Hongyun Liu](https://psych.bnu.edu.cn/szdw/zrjs/js/lhy/index.htm)    
-- **Joint Ph.D. Program (2025.7-2026.6)**:  
+- **Joint Ph.D. Program (2025.8-2026.7)**:  
   Visiting Researcher at the University of Notre Dame, USA  
   Supervisor: [Prof. Lijuan (Peggy) Wang](https://psychology.nd.edu/people/faculty/lijuan-wang/)  
   
