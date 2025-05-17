@@ -20,7 +20,7 @@ I conduct research in three primary areas:
 
 ### **Peer‐Reviewed Articles**
 
-15.🟧 **Luo, X.**, Hu, Y.\*, & Liu, H.\* (2025). Timescale mismatch in intensive longitudinal data: Current issues and possible solutions based on dynamic structural equation models. ***Psychological Methods***. *Advanced Online Publication*. \[[doi](https://doi.org/10.1037/met0000749)\] \[IF: 7.6/11, Q1\] 
+15. 🟧 **Luo, X.**, Hu, Y.\*, & Liu, H.\* (2025). Timescale mismatch in intensive longitudinal data: Current issues and possible solutions based on dynamic structural equation models. ***Psychological Methods***. *Advanced Online Publication*. \[[doi](https://doi.org/10.1037/met0000749)\] \[IF: 7.6/11, Q1\] 
     <details>
         <summary>Click to expand for more details</summary>
         - <em>Download the full article</em> : <a href="/assets/pdfs/2025online_PM_Timescale Mismatch.pdf">Download PDF</a><br>
@@ -29,18 +29,18 @@ I conduct research in three primary areas:
             <img src="/assets/images/Timescale_Mismatch.png" width="80%">
         </div>
     </details>
-14.🟨 **Luo, X.**, Hu, Y.\*, & Liu, H.\* (2025). Dynamic prediction of depressive states using stress processes: A multilevel decision tree approach. *Acta Psychologica Sinica (心理学报)*.\[[doi](https://journal.psych.ac.cn/xlxb/CN/10.3724/SP.J.1041.2025.030)\] \[CSSCI\]
+14. 🟨 **Luo, X.**, Hu, Y.\*, & Liu, H.\* (2025). Dynamic prediction of depressive states using stress processes: A multilevel decision tree approach. *Acta Psychologica Sinica (心理学报)*.\[[doi](https://journal.psych.ac.cn/xlxb/CN/10.3724/SP.J.1041.2025.030)\] \[CSSCI\]
     <details>
         <summary>Click to expand for more details</summary>
         - <em>Open Data & Code</em> : <a href="https://osf.io/936tq/">OSF Repository</a><br>
         - <em>Download the full article</em> : <a href="/assets/pdfs/2025_心理学报_压力过程对抑郁状态的动态预测：基于多层决策树.pdf">Download PDF</a><br>
     </details>
-13.🟧 **Luo, X.**, Liu, Y.\*, & Liu, H.\* (2025). Incorporating qualitative distinctions in within-person effect analyses \[Abstract\]. ***Multivariate Behavioral Research***. \[[doi](https://doi.org/10.1080/00273171.2025.2443362)\] \[IF: 5.3/5.3, Q1\] 
+13. 🟧 **Luo, X.**, Liu, Y.\*, & Liu, H.\* (2025). Incorporating qualitative distinctions in within-person effect analyses \[Abstract\]. ***Multivariate Behavioral Research***. \[[doi](https://doi.org/10.1080/00273171.2025.2443362)\] \[IF: 5.3/5.3, Q1\] 
     <details>
         <summary>Click to expand for more details</summary>
         - <em>Download the full article</em> : <a href="/assets/pdfs/2025_MBR_Incorporating Qualitative Distinctions in Within-Person Effect Analyses.pdf">Download PDF</a><br>
     </details>
-12.🟦 **Luo, X.+**, Wang, H.+, Xu, J., Liu, H.\*, Suveg, C., & Han, Z.\* (2025). Dynamic processes of parent-adolescent conflict and warmth in Chinese families: Differences between mothers and fathers. *Journal of Youth and Adolescence*. \[[doi](https://doi.org/10.1007/s10964-025-02160-5)\] \[IF: 3.7/5.3, Q1\]
+12. 🟦 **Luo, X.+**, Wang, H.+, Xu, J., Liu, H.\*, Suveg, C., & Han, Z.\* (2025). Dynamic processes of parent-adolescent conflict and warmth in Chinese families: Differences between mothers and fathers. *Journal of Youth and Adolescence*. \[[doi](https://doi.org/10.1007/s10964-025-02160-5)\] \[IF: 3.7/5.3, Q1\]
     <details>
         <summary>Click to expand for more details</summary>
         - <em>Download the full article</em> : <a href="/assets/pdfs/2025_JYA_Dynamic Processes of Parent–Adolescent Interaction.pdf">Download PDF</a><br>
