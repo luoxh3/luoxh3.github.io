@@ -23,7 +23,7 @@ I conduct research in three primary areas:
 15. 🟧 **Luo, X.**, Hu, Y.\*, & Liu, H.\* (2025). Timescale mismatch in intensive longitudinal data: Current issues and possible solutions based on dynamic structural equation models. ***Psychological Methods***. *Advanced Online Publication*. \[[doi](https://doi.org/10.1037/met0000749)\] \[IF: 7.6/11, Q1\] 
     <details>
         <summary>Click to expand for more details</summary>
-        - <em>Download the full article</em> : <a href="/assets/pdfs/2025_PM_Timescale Mismatch.pdf">Download PDF</a><br>
+        - <em>Download the full article</em> : <a href="/assets/pdfs/2025online_PM_Timescale Mismatch.pdf">Download PDF</a><br>
         - <em>Open Data & Code</em> : <a href="https://osf.io/fdpsj/">OSF Repository</a>
         <div style="text-align: center;">
             <img src="/assets/images/Timescale_Mismatch.png" width="80%">
