@@ -16,7 +16,18 @@ I conduct research in three primary areas:
 3. 🟦 **Practical Applications and Collaborative Research in Health, Clinical, and Developmental Psychology**  
    Research in this category applies intensive longitudinal data analysis methods to tackle practical problems in health, clinical, and developmental psychology. It also involves collaborative efforts aimed at identifying real-world issues and addressing them through joint projects, which further encourages me to solve these pressing practical problems in the field.
 
-**Summary**: 15 peer-reviewed articles (12 first-authored), published in methodological journals including *Psychological Methods* \[IF: 7.8/10, Q1\], *Behavior Research Methods* \[IF: 3.9/6.8, Q1\], *Multivariate Behavioral Research* \[IF: 7.8/10, Q1\], and *Structural Equation Modeling: A Multidisciplinary Journal* \[IF: 3.2/5.3, Q1\], and substantive journals including *Assessment* \[IF: 3.4/4.1, Q1\], *Health Psychology* \[IF: 3.2/4.0, Q1\], *Mindfulness* \[IF: 3.5/4.4, Q1\], *Journal of Youth and Adolescence* \[IF: 3.6/5.5, Q1\], and *Accident Analysis and Prevention* \[IF: 6.2/6.9, Q1\]. Additionally, I have 5 first-authored manuscripts under review or in revision.
+**Summary**: 15 peer-reviewed articles (12 first-authored), published in methodological journals including 
+- *Psychological Methods* \[IF: 7.8/10, Q1\]
+- *Behavior Research Methods* \[IF: 3.9/6.8, Q1\]
+- *Multivariate Behavioral Research* \[IF: 7.8/10, Q1\]
+- *Structural Equation Modeling: A Multidisciplinary Journal* \[IF: 3.2/5.3, Q1\]
+and substantive journals including 
+- *Assessment* \[IF: 3.4/4.1, Q1\]
+- *Health Psychology* \[IF: 3.2/4.0, Q1\]
+- *Mindfulness* \[IF: 3.5/4.4, Q1\]
+- *Journal of Youth and Adolescence* \[IF: 3.6/5.5, Q1\]
+- *Accident Analysis and Prevention* \[IF: 6.2/6.9, Q1\]
+Additionally, I have 5 first-authored manuscripts under review or in revision.
 
 *Notes: IF = impact factor \[for 2024 / the past five years\]; \*corresponding author(s);* \+*co-first authors.*
 
