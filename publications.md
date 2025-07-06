@@ -16,6 +16,8 @@ I conduct research in three primary areas:
 3. 🟦 **Practical Applications and Collaborative Research in Health, Clinical, and Developmental Psychology**  
    Research in this category applies intensive longitudinal data analysis methods to tackle practical problems in health, clinical, and developmental psychology. It also involves collaborative efforts aimed at identifying real-world issues and addressing them through joint projects, which further encourages me to solve these pressing practical problems in the field.
 
+**Summary**: 15 peer-reviewed articles (12 first-authored), published in methodological journals including *Psychological Methods* \[IF: 7.8/10, Q1\], *Behavior Research Methods* \[IF: 3.9/6.8, Q1\], *Multivariate Behavioral Research* \[IF: 7.8/10, Q1\], and *Structural Equation Modeling: A Multidisciplinary Journal* \[IF: 3.2/5.3, Q1\], and substantive journals including *Assessment* \[IF: 3.4/4.1, Q1\], *Health Psychology* \[IF: 3.2/4.0, Q1\], *Mindfulness* \[IF: 3.5/4.4, Q1\], *Journal of Youth and Adolescence* \[IF: 3.6/5.5, Q1\], and *Accident Analysis and Prevention* \[IF: 6.2/6.9, Q1\]. Additionally, I have 5 first-authored manuscripts under review or in revision.
+
 *Notes: IF = impact factor \[for 2024 / the past five years\]; \*corresponding author(s);* \+*co-first authors.*
 
 ### **Peer‐Reviewed Articles**
@@ -29,7 +31,7 @@ I conduct research in three primary areas:
             <img src="/assets/images/Timescale_Mismatch.png" width="80%">
         </div>
     </details>
-14. 🟨 **Luo, X.**, Hu, Y.\*, & Liu, H.\* (2025). Dynamic prediction of depressive states using stress processes: A multilevel decision tree approach. *Acta Psychologica Sinica (心理学报)*.\[[doi](https://journal.psych.ac.cn/xlxb/CN/10.3724/SP.J.1041.2025.030)\] \[CSSCI\]
+14. 🟨 **Luo, X.**, Hu, Y.\*, & Liu, H.\* (2025). Dynamic prediction of depressive states using stress processes: A multilevel decision tree approach. *Acta Psychologica Sinica (心理学报)*.\[[doi](https://journal.psych.ac.cn/xlxb/CN/10.3724/SP.J.1041.2025.1363)\] \[CSSCI\]
     <details>
         <summary>Click to expand for more details</summary>
         - <em>Open Data & Code</em> : <a href="https://osf.io/936tq/">OSF Repository</a><br>
@@ -101,11 +103,11 @@ I conduct research in three primary areas:
 2. 🟦 Ge, Y., **Luo, X.**, & Qu, W.\* (2023). Impact of feedback content on dangerous driving behaviors based on the triangle model of responsibility. *Transportation Research Part F: Traffic Psychology and Behaviour*, *93*, 1–10. \[[doi](https://www.sciencedirect.com/science/article/pii/S136984782200287X?via%3Dihub)\] \[IF: 4.4/5.2, Q1\]
 1. 🟦 Qu, W., **Luo, X.**, Wang, Y., & Ge, Y.\* (2022). Effects of personality on driving behaviors among professional truck drivers: the mediating effect of safety climate. *Transportation Research Part F: Traffic Psychology and Behaviour*, *89*, 289–302. \[[doi](https://www.sciencedirect.com/science/article/pii/S136984782200153X?via%3Dihub)\] \[IF: 4.4/5.2, Q1\]
 
-### **Manuscripts Under Review and in Preparation**
+### **Manuscripts Under Review or in Preparation**
 
 7. 🟧 **Luo, X.**, Hu, Y.\*, & Liu, H.\* (in revision). Examining within-person variability of each individual: How should we deal with non-varying individuals?
 6. 🟧 **Luo, X.**, Liu, H.\*, & Liu, Y.\* (under review). Signs matter for random slopes: Improving heterogeneity analysis in mixed-effects models by incorporating qualitative differences.
-5. 🟧 **Luo, X.**, Dou, J., & Liu, H.\* (under review). When Standard Two-Method Measurement Planned Missing Designs Reach Their Limits: Time-Embedded Adaptations for Intensive Longitudinal Studies.
+5. 🟧 **Luo, X.**, Dou, J., & Liu, H.\* (under review). When standard two-method measurement planned missing designs reach their limits: Time-embedded adaptations for intensive longitudinal studies.
 4. 🟧 **Luo, X.**, Hu, Y.\*, Liu, H.\*, & Liu, Y. (under review). Enhancing two-stage estimation in differential equation models: A bias correction method via stochastic approximation.
 3. 🟧 **Luo, X.+**, Dong, J.+, Liu, H.\*, & Liu, Y. (under review). Bayesian evaluation of latent variable models: A practical tutorial with the R package *bleval*.
 2. 🟧 Liu, Y., **Luo, X.**, Hu, Y., & Liu, H.\* (in revision). Can we obtain comparable results with fewer time points? Evaluating planned measurement missing designs in intensive longitudinal studies.
@@ -113,7 +115,7 @@ I conduct research in three primary areas:
 
 ### **Conference Papers**
 
-5. 🟧 **Luo, X.**, Hu, Y.\*, Liu, H.\*, & Liu, Y. (2025, Jul). Enhancing two-stage estimation in differential equation models: A bias correction method via stochastic approximation. In *the 2025 International Meeting of the Psychometric Society*.
+5. 🟧 **Luo, X.**, Hu, Y.\*, Liu, H.\*, & Liu, Y. (2025, Jul). Bayesian evaluation of latent variable models: A practical tutorial with the R package *bleval*. In *the 2025 International Meeting of the Psychometric Society*.
 4. 🟧 **Luo, X.**, Hu, Y.\*, Liu, H.\*, & Liu, Y. (2025, Jul). Enhancing two-stage estimation in differential equation models: A bias correction method via stochastic approximation. In *the 2025 Meeting of International Society for Data Science and Analytics*.
 3. 🟧 **Luo, X.**, Liu, Y., & Liu, H.\* (2024, Oct). Incorporating qualitative distinctions in within-person effect analysis. In *the 2024 Annual Society of Multivariate Experimental Psychology Conference*.
 2. 🟨 **Luo, X.**, Hu, Y., & Liu, H.\* (2023, July). Assessing between- and within-person reliabilities of items and scale for daily procrastination: A multilevel and dynamic approach. In *the 2023 Meeting of International Society for Data Science and Analytics*.
