@@ -16,26 +16,28 @@ I conduct research in three primary areas:
 3. 🟦 **Practical Applications and Collaborative Research in Health, Clinical, and Developmental Psychology**  
    Research in this category applies intensive longitudinal data analysis methods to tackle practical problems in health, clinical, and developmental psychology. It also involves collaborative efforts aimed at identifying real-world issues and addressing them through joint projects, which further encourages me to solve these pressing practical problems in the field.
 
+---
 ### **Publication Highlights**  
-**15 peer-reviewed articles** (12 first-authored) in:  
+**15 peer-reviewed articles (12 first-authored)** published in 
 
-#### **Methodological Journals**  
+methodological journals:
 - *Psychological Methods* \[IF: 7.8/10, Q1\]
 - *Behavior Research Methods* \[IF: 3.9/6.8, Q1\]
 - *Multivariate Behavioral Research* \[IF: 3.5/4.7, Q1\]
 - *Structural Equation Modeling: A Multidisciplinary Journal* \[IF: 3.2/5.3, Q1\]
 
-#### **Substantive Journals**  
+substantive journals:
 - *Assessment* \[IF: 3.4/4.1, Q1\]
 - *Health Psychology* \[IF: 3.2/4.0, Q1\]
 - *Mindfulness* \[IF: 3.5/4.4, Q1\]
 - *Journal of Youth and Adolescence* \[IF: 3.6/5.5, Q1\]
 - *Accident Analysis and Prevention* \[IF: 6.2/6.9, Q1\]
 
-**➕ 5 first-authored manuscripts** under review/in revision.  
+**✚ 5 first-authored manuscripts** under review/in revision
 
 *Notes: IF = impact factor \[for 2024 / the past five years\]; \*corresponding author(s);* \+*co-first authors.*
 
+---
 ### **Peer‐Reviewed Articles**
 
 15. 🟧 **Luo, X.**, Hu, Y.\*, & Liu, H.\* (2025). Timescale mismatch in intensive longitudinal data: Current issues and possible solutions based on dynamic structural equation models. ***Psychological Methods***. *Advanced Online Publication*. \[[doi](https://doi.org/10.1037/met0000749)\] \[IF: 7.8/10, Q1\] 
@@ -119,6 +121,7 @@ I conduct research in three primary areas:
 2. 🟦 Ge, Y., **Luo, X.**, & Qu, W.\* (2023). Impact of feedback content on dangerous driving behaviors based on the triangle model of responsibility. *Transportation Research Part F: Traffic Psychology and Behaviour*, *93*, 1–10. \[[doi](https://www.sciencedirect.com/science/article/pii/S136984782200287X?via%3Dihub)\] \[IF: 4.4/5.2, Q1\]
 1. 🟦 Qu, W., **Luo, X.**, Wang, Y., & Ge, Y.\* (2022). Effects of personality on driving behaviors among professional truck drivers: the mediating effect of safety climate. *Transportation Research Part F: Traffic Psychology and Behaviour*, *89*, 289–302. \[[doi](https://www.sciencedirect.com/science/article/pii/S136984782200153X?via%3Dihub)\] \[IF: 4.4/5.2, Q1\]
 
+---
 ### **Manuscripts Under Review or in Preparation**
 
 7. 🟧 **Luo, X.**, Hu, Y.\*, & Liu, H.\* (in revision). Examining within-person variability of each individual: How should we deal with non-varying individuals?
@@ -129,6 +132,7 @@ I conduct research in three primary areas:
 2. 🟧 Liu, Y., **Luo, X.**, Hu, Y., & Liu, H.\* (in revision). Can we obtain comparable results with fewer time points? Evaluating planned measurement missing designs in intensive longitudinal studies.
 1. 🟦 Ma, J.+, **Luo, X.+**, & Hu, Y.\* (in revision). Positive stress mindset is vulnerable: Unpacking the internal system and external loop of dynamic stress mindset.
 
+---
 ### **Conference Papers**
 
 5. 🟧 **Luo, X.**, Hu, Y.\*, Liu, H.\*, & Liu, Y. (2025, Jul). Bayesian evaluation of latent variable models: A practical tutorial with the R package *bleval*. In *the 2025 International Meeting of the Psychometric Society*.
