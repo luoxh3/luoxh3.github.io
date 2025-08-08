@@ -17,6 +17,14 @@ permalink: /experiences/
 
 ---
 
+## ⛵ Research Journey
+
+Over the past few years, I've been navigating my way along the continuum from applied to methodological research. I'm deeply grateful to all the mentors who have guided and supported me throughout this journey. Ultimately, I aim to **bridge applied and methodological research**, developing innovative methods and grounding them in practical, real-world studies.
+
+![My Research Journey](/assets/images/Journey.jpg){: .research-journey-img }
+
+---
+
 ## 💡 Research Interests
 
 - **Dynamic bidirectional relations** in discrete-time and continuous-time models (e.g., feedback effects, predator-prey models).
@@ -33,6 +41,7 @@ permalink: /experiences/
 
 ## 🎉 Honors & Awards
 
+- **Best Paper Award**, The Annual Meeting of the International Society for Data Science and Analytics (ISDSA) - 2025
 - **Academic Special Prize Scholarship**, Beijing Normal University (¥ 20,000) - 2025
 - **National Scholarship** (Master's Student), Minister of Education of China (¥ 20,000) - 2024
 - **Outstanding Graduates**, Beijing Municipal Education Commission - 2023
