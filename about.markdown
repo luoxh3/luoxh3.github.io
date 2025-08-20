@@ -9,6 +9,10 @@ permalink: /experiences/
 **Beijing Normal University (BNU), China**  
 - Advisor: [Prof. Hongyun Liu](https://psych.bnu.edu.cn/szdw/zrjs/js/lhy/index.htm)
 - Lab Website: [Dynamic Modeling & Assessment in Psychology (DyMAP)](https://hongyun-liu.github.io/)
+
+### **Visiting Student at University of Groningen (2026)**
+- Advisor: [Prof. L.F. (Laura) Bringmann](https://www.rug.nl/staff/l.f.bringmann/)
+- Lab Website: [LaBlab](https://www.laurabringmannlab.com/)
   
 ### **B.S. in Psychology (2019 - 2023)**
 **Beijing Normal University (BNU), China**  
@@ -19,7 +23,9 @@ permalink: /experiences/
 
 ## ⛵ Research Journey
 
-Over the past few years, I've been navigating my way along the continuum from applied to methodological research. I'm deeply grateful to all the mentors who have guided and supported me throughout this journey. Ultimately, I aim to **bridge applied and methodological research**, developing innovative methods and grounding them in practical, real-world studies.
+Over the past few years, I've been navigating my way along the continuum from applied to methodological research. I'm deeply grateful to all the mentors who have guided and supported me throughout this journey. 
+
+Ultimately, I aim to **bridge applied and methodological research**, developing innovative methods and grounding them in practical, real-world studies.
 
 ![My Research Journey](/assets/images/Journey.jpg){: .research-journey-img }
 
