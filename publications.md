@@ -49,18 +49,18 @@ Substantive journals:
             <img src="/assets/images/Timescale_Mismatch.png" width="80%">
         </div>
     </details>
-15. 🟨 **Luo, X.**, Hu, Y.\*, & Liu, H.\* (2025). Dynamic prediction of depressive states using stress processes: A multilevel decision tree approach. *Acta Psychologica Sinica (心理学报)*.\[[doi](https://journal.psych.ac.cn/xlxb/CN/10.3724/SP.J.1041.2025.1363)\] \[CSSCI\]
+15. 🟨 **Luo, X.**, Hu, Y.\*, & Liu, H.\* (2025). Dynamic prediction of depressive states using stress processes: A multilevel decision tree approach. *Acta Psychologica Sinica (心理学报), 57*(8), 1363–1377. \[[doi](https://journal.psych.ac.cn/xlxb/CN/10.3724/SP.J.1041.2025.1363)\] 
     <details>
         <summary>Click to expand for more details</summary>
         - <em>Open Data & Code</em> : <a href="https://osf.io/936tq/">OSF Repository</a><br>
         - <em>Download the full article</em> : <a href="/assets/pdfs/2025_心理学报_压力过程对抑郁状态的动态预测：基于多层决策树.pdf">Download PDF</a><br>
     </details>
-14. 🟧 **Luo, X.**, Liu, Y.\*, & Liu, H.\* (2025). Incorporating qualitative distinctions in within-person effect analyses \[Abstract\]. ***Multivariate Behavioral Research***. \[[doi](https://doi.org/10.1080/00273171.2025.2443362)\] \[IF: 3.5/4.7, Q1\] 
+14. 🟧 **Luo, X.**, Liu, Y.\*, & Liu, H.\* (2025). Incorporating qualitative distinctions in within-person effect analyses \[Abstract\]. ***Multivariate Behavioral Research***, *60*(1), 21–22. \[[doi](https://doi.org/10.1080/00273171.2025.2443362)\] \[IF: 3.5/4.7, Q1\] 
     <details>
         <summary>Click to expand for more details</summary>
         - <em>Download the full article</em> : <a href="/assets/pdfs/2025_MBR_Incorporating Qualitative Distinctions in Within-Person Effect Analyses.pdf">Download PDF</a><br>
     </details>
-13. 🟦 **Luo, X.+**, Wang, H.+, Xu, J., Liu, H.\*, Suveg, C., & Han, Z.\* (2025). Dynamic processes of parent-adolescent conflict and warmth in Chinese families: Differences between mothers and fathers. *Journal of Youth and Adolescence*. \[[doi](https://doi.org/10.1007/s10964-025-02160-5)\] \[IF: 3.6/5.5, Q1\]
+13. 🟦 **Luo, X.+**, Wang, H.+, Xu, J., Liu, H.\*, Suveg, C., & Han, Z.\* (2025). Dynamic processes of parent-adolescent conflict and warmth in Chinese families: Differences between mothers and fathers. *Journal of Youth and Adolescence, 54*, 1985–1998. \[[doi](https://doi.org/10.1007/s10964-025-02160-5)\] \[IF: 3.6/5.5, Q1\]
     <details>
         <summary>Click to expand for more details</summary>
         - <em>Download the full article</em> : <a href="/assets/pdfs/2025_JYA_Dynamic Processes of Parent–Adolescent Interaction.pdf">Download PDF</a><br>
@@ -95,7 +95,7 @@ Substantive journals:
             <img src="/assets/images/Feedback_Effect.png" width="90%">
         </div>
     </details>
-8. 🟧 **Luo, X.**, & Liu, H.\* (2024). Estimating test reliability of intensive longitudinal studies: Perspectives on multilevel structure and dynamic nature. *Advances in Psychological Science (心理科学进展)*, *32*(4), 700–714. \[[doi](https://journal.psych.ac.cn/xlkxjz/EN/abstract/abstract7040.shtml)\] \[CSSCI\]
+8. 🟧 **Luo, X.**, & Liu, H.\* (2024). Estimating test reliability of intensive longitudinal studies: Perspectives on multilevel structure and dynamic nature. *Advances in Psychological Science (心理科学进展)*, *32*(4), 700–714. \[[doi](https://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2024.00700)\]
     <details>
         <summary>Click to expand for more details</summary>
         - <em>Download the full article</em> : <a href="/assets/pdfs/2024_心理科学进展_密集追踪研究中测验信度的估计 多层结构和动态特性的视角.pdf">Download PDF</a><br>
@@ -134,8 +134,8 @@ Substantive journals:
 6. 🟧 **Luo, X.**, Hu, Y.\*, & Liu, H.\* (in revision). Examining within-person variability of each individual: How should we deal with non-varying individuals?
 5. 🟧 **Luo, X.**, Liu, H.\*, & Liu, Y.\* (under review). Signs matter for random slopes: Improving heterogeneity analysis in mixed-effects models by incorporating qualitative differences.
 4. 🟧 **Luo, X.**, Dou, J., & Liu, H.\* (under review). When standard two-method measurement planned missing designs reach their limits: Time-embedded adaptations for intensive longitudinal studies.
-3. 🟧 **Luo, X.**, Hu, Y.\*, Liu, H.\*, & Liu, Y. (under review). Enhancing two-stage estimation in differential equation models: A bias correction method via stochastic approximation.
-2. 🟧 **Luo, X.+**, Dong, J.+, Liu, H.\*, & Liu, Y. (under review). Bayesian evaluation of latent variable models: A practical tutorial with the R package *bleval*.
+3. 🟧 **Luo, X.**, Hu, Y.\*, Liu, H.\*, & Liu, Y. (in revision). Enhancing two-stage estimation in differential equation models: A bias correction method via stochastic approximation.
+2. 🟧 **Luo, X.+**, Dong, J.+, Liu, H.\*, & Liu, Y. (in revision). Bayesian evaluation of latent variable models: A practical tutorial with the R package *bleval*.
 1. 🟧 Liu, Y., **Luo, X.**, Hu, Y., & Liu, H.\* (under review). Can we obtain comparable results with fewer time points? Evaluating planned measurement missing designs in intensive longitudinal studies.
 
 ---
