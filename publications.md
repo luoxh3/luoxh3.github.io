@@ -133,7 +133,7 @@ Substantive journals:
 
 5. 🟧 **Luo, X.**, Hu, Y.\*, & Liu, H.\* (revised & resubmit). Examining within-person variability of each individual: How should we deal with non-varying individuals?
 4. 🟧 **Luo, X.**, Hu, Y.\*, Liu, H.\*, & Liu, Y. (revised & resubmit). Enhancing two-stage estimation in differential equation models: A bias correction method via stochastic approximation.
-3. 🟧 **Luo, X.+**, Dong, J.+, Liu, H.\*, & Liu, Y. (revised & resubmit). Bayesian evaluation of latent variable models: A practical tutorial with the R package *bleval*.
+3. 🟧 **Luo, X.+**, Dong, J.+, Liu, H.\*, & Liu, Y. (revised & resubmit). Bayesian evaluation of latent variable models: A tutorial on computing information criteria and Bayes factors with the R package *bleval*.
 2. 🟧 **Luo, X.**, Dou, J., & Liu, H.\* (under review). When standard two-method measurement planned missing designs reach their limits: Time-embedded adaptations for intensive longitudinal studies.
 1. 🟧 Liu, Y., **Luo, X.**, Hu, Y., & Liu, H.\* (under review). Can we obtain comparable results with fewer time points? Evaluating planned measurement missing designs in intensive longitudinal studies.
 
