@@ -36,17 +36,15 @@ Ultimately, I aim to **bridge applied and methodological research**, developing 
 - **Dynamic bidirectional relations** in discrete-time and continuous-time models (e.g., feedback effects, predator-prey models).
 - **Time-related issues** in intensive longitudinal data (e.g., temporal misalignment, timescale mismatch, optimal time intervals).
 - **Intensive longitudinal interventions**: Dynamic modeling and effect evaluation.
-- **Incorporating qualitative distinctions** to improve heterogeneity analysis in mixed-effects models.
+- **(Causal) machine learning and large language models** in intensive longitudinal studies.
 - **Reliability** estimation and interpretation in intensive longitudinal studies.
-- **Planned missingness designs** in intensive longitudinal studies.
-- **Within-person variability** in intensive longitudinal data (e.g., non-varying individuals).
-- **Machine learning methods** in intensive longitudinal analyses.
 - **Applications** of intensive longitudinal techniques in clinical-health and developmental psychology.
 
 ---
 
 ## 🎉 Honors & Awards
 
+- **National Scholarship** (PhD Student), Minister of Education of China (¥ 30,000) - 2025
 - **Best Paper Award**, The Annual Meeting of the International Society for Data Science and Analytics (ISDSA) - 2025
 - **Academic Special Prize Scholarship**, Beijing Normal University (¥ 20,000) - 2025
 - **National Scholarship** (Master's Student), Minister of Education of China (¥ 20,000) - 2024

@@ -33,7 +33,7 @@ Substantive journals:
 - *Journal of Youth and Adolescence* \[IF: 3.6/5.5, Q1\]
 - *Accident Analysis and Prevention* \[IF: 6.2/6.9, Q1\]
 
-**✚ 5 first-authored manuscripts** under review/in revision
+**✚ 4 first-authored manuscripts** under review/in revision/revised & resubmit
 
 *Notes: IF = impact factor \[for 2024 / the past five years\]; \*corresponding author(s);* \+*co-first authors.*
 
@@ -131,11 +131,10 @@ Substantive journals:
 ---
 ### **Manuscripts Under Review or in Preparation**
 
-6. 🟧 **Luo, X.**, Hu, Y.\*, & Liu, H.\* (in revision). Examining within-person variability of each individual: How should we deal with non-varying individuals?
-5. 🟧 **Luo, X.**, Liu, H.\*, & Liu, Y.\* (under review). Signs matter for random slopes: Improving heterogeneity analysis in mixed-effects models by incorporating qualitative differences.
-4. 🟧 **Luo, X.**, Dou, J., & Liu, H.\* (under review). When standard two-method measurement planned missing designs reach their limits: Time-embedded adaptations for intensive longitudinal studies.
-3. 🟧 **Luo, X.**, Hu, Y.\*, Liu, H.\*, & Liu, Y. (in revision). Enhancing two-stage estimation in differential equation models: A bias correction method via stochastic approximation.
-2. 🟧 **Luo, X.+**, Dong, J.+, Liu, H.\*, & Liu, Y. (in revision). Bayesian evaluation of latent variable models: A practical tutorial with the R package *bleval*.
+5. 🟧 **Luo, X.**, Hu, Y.\*, & Liu, H.\* (revised & resubmit). Examining within-person variability of each individual: How should we deal with non-varying individuals?
+4. 🟧 **Luo, X.**, Hu, Y.\*, Liu, H.\*, & Liu, Y. (revised & resubmit). Enhancing two-stage estimation in differential equation models: A bias correction method via stochastic approximation.
+3. 🟧 **Luo, X.+**, Dong, J.+, Liu, H.\*, & Liu, Y. (revised & resubmit). Bayesian evaluation of latent variable models: A practical tutorial with the R package *bleval*.
+2. 🟧 **Luo, X.**, Dou, J., & Liu, H.\* (under review). When standard two-method measurement planned missing designs reach their limits: Time-embedded adaptations for intensive longitudinal studies.
 1. 🟧 Liu, Y., **Luo, X.**, Hu, Y., & Liu, H.\* (under review). Can we obtain comparable results with fewer time points? Evaluating planned measurement missing designs in intensive longitudinal studies.
 
 ---
