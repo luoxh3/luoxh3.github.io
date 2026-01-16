@@ -16,7 +16,7 @@ PhD Student in Psychological Statistics and Psychometrics, Beijing Normal Univer
 📧 **Email**: xiaohui_luo@mail.bnu.edu.cn  
 🔗 [**Google Scholar**](https://scholar.google.com.hk/citations?hl=zh-CN&user=fyGml2AAAAAJ) | [**ResearchGate**](https://www.researchgate.net/profile/Xiaohui-Luo-9) | [**GitHub**](https://github.com/luoxh3) | [**ORCID**](https://orcid.org/my-orcid?orcid=0000-0002-6462-0220)
 
-(Updated: Dec 2025)
+(Updated: Jan 2026)
 
 ---
 
@@ -24,7 +24,7 @@ PhD Student in Psychological Statistics and Psychometrics, Beijing Normal Univer
 
 I am a Ph.D. student in **Psychological Statistics and Psychometrics** at Beijing Normal University (BNU), under the supervision of [Prof. Hongyun Liu](https://psych.bnu.edu.cn/szdw/zrjs/js/lhy/index.htm) ([Lab Website](https://hongyun-liu.github.io/)).
 
-My research focuses on **Intensive Longitudinal Analysis**, **Machine Learning**, and **Bayesian Estimation**. I am particularly interested in exploring dynamic processes, time-related issues, and heterogeneity in psychological data, with applications in clinical-health and developmental psychology.
+My research focuses on **Intensive Longitudinal Analysis**, **Bayesian Estimation**, and **Machine Learning**. I am particularly interested in exploring dynamic processes, time-related issues, and heterogeneity in psychological data, with applications in clinical-health and developmental psychology.
 
 ---
 
