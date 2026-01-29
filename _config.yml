@@ -36,8 +36,18 @@ just_the_docs:
 nav:
   - title: "Home"
     url: /
-  - title: "Experiences"
-    url: /experiences/
+    nav_order: 1
+  - title: "Background"
+    url: /background/
+    nav_order: 2
+  - title: "Honors"
+    url: /honors/
+    nav_order: 3
   - title: "Publications"
     url: /publications/
+    nav_order: 4
+  - title: "Service"
+    url: /service/
+    nav_order: 5
+
 
