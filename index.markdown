@@ -12,8 +12,8 @@ nav_order: 1
 **Ph.D. Candidate in Psychological Statistics and Psychometrics**  
 Beijing Normal University | Visiting Researcher at University of Groningen
 
-🔗 **Links:** [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=fyGml2AAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Xiaohui-Luo-9) | [GitHub](https://github.com/luoxh3) | [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-6462-0220)
-
+📧 **Email**: luoxh333@gmail.com
+🔗 [**Google Scholar**](https://scholar.google.com.hk/citations?hl=zh-CN&user=fyGml2AAAAAJ) | [**ResearchGate**](https://www.researchgate.net/profile/Xiaohui-Luo-9) | [**GitHub**](https://github.com/luoxh3) | [**ORCID**](https://orcid.org/my-orcid?orcid=0000-0002-6462-0220)
 ---
 
 ## 👋 About Me
@@ -41,11 +41,6 @@ My research centers on **Intensive Longitudinal Analysis**, **Bayesian Estimatio
 
 ---
 
-## 📬 Contact
-
-📧 **Primary Email**: luoxh333@gmail.com  
-📧 **Academic Email**: xiaohui_luo@mail.bnu.edu.cn  
-
-Feel free to reach out to discuss research collaborations, methodological questions, or potential opportunities!
+📬 Feel free to reach out to discuss research collaborations, methodological questions, or potential opportunities!
 
 *Last updated: January 2026*
