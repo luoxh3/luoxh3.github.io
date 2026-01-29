@@ -35,7 +35,7 @@ My research centers on **Intensive Longitudinal Analysis**, **Bayesian Estimatio
 ### 2025
 - 🏅 **CAST Youth Science and Technology Talent Program** – Doctoral Project  
   *(Selected as one of 13 Ph.D. students nationwide by the Chinese Psychological Society)*
-- 🏅 **National Scholarship** for Ph.D. students (¥30,000)
+- 🏅 **National Scholarship** for Ph.D. students
 - 🏅 **Best Paper Award**, International Society for Data Science and Analytics (ISDSA) Annual Meeting
 - ✍️ **First-authored paper** in *Psychological Methods* (IF: 10)
 
@@ -47,16 +47,5 @@ My research centers on **Intensive Longitudinal Analysis**, **Bayesian Estimatio
 📧 **Academic Email**: xiaohui_luo@mail.bnu.edu.cn  
 
 Feel free to reach out to discuss research collaborations, methodological questions, or potential opportunities!
-
----
-
-## 🗂️ Site Navigation
-
-- [**Education**](/education/) – Academic background and honors
-- [**Research**](/research/) – Research journey and interests  
-- [**Publications**](/publications/) – Peer-reviewed articles, manuscripts, and conference presentations
-- [**Teaching & Service**](/teaching_service/) – Teaching experiences and academic service
-
----
 
 *Last updated: January 2026*
