@@ -13,7 +13,9 @@ nav_order: 1
 Beijing Normal University | Visiting Researcher at University of Groningen
 
 📧 **Email**: luoxh333@gmail.com
+
 🔗 [**Google Scholar**](https://scholar.google.com.hk/citations?hl=zh-CN&user=fyGml2AAAAAJ) | [**ResearchGate**](https://www.researchgate.net/profile/Xiaohui-Luo-9) | [**GitHub**](https://github.com/luoxh3) | [**ORCID**](https://orcid.org/my-orcid?orcid=0000-0002-6462-0220)
+
 ---
 
 ## 👋 About Me
@@ -22,7 +24,7 @@ Hi! I am Xiaohui Luo, a Ph.D. candidate in **Psychological Statistics and Psycho
 
 In 2026, I am conducting a one-year research visit at the University of Groningen under the guidance of [Prof. Laura Bringmann](https://www.rug.nl/staff/l.f.bringmann/) in the [LaBlab](https://www.laurabringmannlab.com/).
 
-My research centers on **Intensive Longitudinal Analysis**, **Bayesian Estimation**, and **Machine Learning**. I am particularly interested in exploring dynamic processes, temporal issues, and heterogeneity in psychological data, with applications in clinical-health and developmental psychology. My work aims to bridge methodological innovation with substantive applications, developing novel statistical techniques and applying them to real-world psychological research.
+My research centers on **Intensive Longitudinal Analysis**, **Bayesian Estimation**, and **Machine Learning**. I am particularly interested in exploring dynamic processes, temporal issues, and heterogeneity in psychological data, with applications in clinical-health and developmental psychology. My work aims to **bridge methodological innovation with substantive applications**, developing novel statistical techniques and applying them to real-world psychological research.
 
 ---
 
@@ -41,6 +43,6 @@ My research centers on **Intensive Longitudinal Analysis**, **Bayesian Estimatio
 
 ---
 
-📬 Feel free to reach out to discuss research collaborations, methodological questions, or potential opportunities!
+📬 **Feel free to reach out** to discuss research collaborations, methodological questions, or potential opportunities!
 
 *Last updated: January 2026*
