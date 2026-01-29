@@ -3,7 +3,7 @@ title: "Service"
 permalink: /service/
 ---
 
-## 📝 **Academic Service**
+## 📝 Academic Service
 
 ### **Journal Article Review**
 - Multivariate Behavioral Research
@@ -24,7 +24,7 @@ permalink: /service/
 
 ---
 
-## 💬 **Teaching Experiences**
+## 💬 Teaching Experiences
 - **Teaching Assistant (Lecture Instructor)**, Psychological Statistics I (Undergraduate level), Fall 2024
 - **Teaching Assistant (Lecture Instructor)**, Psychological Statistics II (Undergraduate level), Spring 2025
 - Teaching Assistant, Advanced Psychological Statistics (Graduate level), Spring 2025

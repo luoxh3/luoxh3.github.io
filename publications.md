@@ -15,7 +15,7 @@ I conduct research in three primary areas:
    Research in this category applies intensive longitudinal data analysis methods to tackle practical problems in health, clinical, and developmental psychology. It also involves collaborative efforts aimed at identifying real-world issues and addressing them through joint projects, which further encourages me to solve these pressing practical problems in the field.
 
 ---
-## 🚀 **Publication Highlights**  
+## 🚀 Publication Highlights
 **18 peer-reviewed articles (13 first-authored, 5 second-authored)**
 
 First-authored papers published in
@@ -38,7 +38,7 @@ Substantive journals:
 *Notes: IF = impact factor \[for 2024 / the past five years\]; \*corresponding author(s);* \+*co-first authors.*
 
 ---
-## **Peer‐Reviewed Articles**
+## Peer‐Reviewed Articles
 
 18. 🟧 **Luo, X.**, Hu, Y.\*, & Liu, H.\* (2025). Timescale mismatch in intensive longitudinal data: Current issues and possible solutions based on dynamic structural equation models. ***Psychological Methods***. *Advanced Online Publication*. \[[doi](https://doi.org/10.1037/met0000749)\] \[IF: 7.8/10, Q1\] 
     <details>
@@ -140,7 +140,7 @@ Substantive journals:
 1. 🟦 Qu, W., **Luo, X.**, Wang, Y., & Ge, Y.\* (2022). Effects of personality on driving behaviors among professional truck drivers: the mediating effect of safety climate. *Transportation Research Part F: Traffic Psychology and Behaviour*, *89*, 289–302. \[[doi](https://www.sciencedirect.com/science/article/pii/S136984782200153X?via%3Dihub)\] \[IF: 4.4/5.2, Q1\]
 
 ---
-## **Manuscripts Under Review or in Preparation**
+## Manuscripts Under Review or in Preparation
 
 5. 🟧 **Luo, X.**, Hu, Y.\*, & Liu, H.\* (revised & resubmit). Examining within-person variability of each individual: How should we deal with non-varying individuals?
 4. 🟧 **Luo, X.**, Hu, Y.\*, Liu, H.\*, & Liu, Y. (revised & resubmit). Enhancing two-stage estimation in differential equation models: A bias correction method via stochastic approximation.
@@ -150,7 +150,7 @@ Substantive journals:
 
 ---
 
-## **Conference Papers**
+## Conference Papers
 
 5. 🟧 **Luo, X.**, Hu, Y.\*, Liu, H.\*, & Liu, Y. (2025, Jul, Washington, USA). Bayesian evaluation of latent variable models: A practical tutorial with the R package *bleval*. In *the 2025 International Meeting of the Psychometric Society*.
 4. 🟧 **Luo, X.**, Hu, Y.\*, Liu, H.\*, & Liu, Y. (2025, Jul, Minnesota, USA). Enhancing two-stage estimation in differential equation models: A bias correction method via stochastic approximation. In *the 2025 Meeting of International Society for Data Science and Analytics*. \[**Best Paper Award**\]

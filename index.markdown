@@ -12,13 +12,13 @@ nav_order: 1
 **Ph.D. Candidate in Psychological Statistics and Psychometrics**  
 Beijing Normal University | Visiting Researcher at University of Groningen
 
-🔗 [**Google Scholar**](https://scholar.google.com.hk/citations?hl=zh-CN&user=fyGml2AAAAAJ) | [**ResearchGate**](https://www.researchgate.net/profile/Xiaohui-Luo-9) | [**GitHub**](https://github.com/luoxh3) | [**ORCID**](https://orcid.org/my-orcid?orcid=0000-0002-6462-0220)
+🔗 **Links:** [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=fyGml2AAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Xiaohui-Luo-9) | [GitHub](https://github.com/luoxh3) | [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-6462-0220)
 
 ---
 
 ## 👋 About Me
 
-Hello! I am Xiaohui Luo, a Ph.D. candidate in **Psychological Statistics and Psychometrics** at Beijing Normal University (BNU). I am supervised by [Prof. Hongyun Liu](https://psych.bnu.edu.cn/szdw/zrjs/js/lhy/index.htm) at the [Dynamic Modeling & Assessment in Psychology (DyMAP) Lab](https://hongyun-liu.github.io/).
+Hi! I am Xiaohui Luo, a Ph.D. candidate in **Psychological Statistics and Psychometrics** at Beijing Normal University (BNU). I am supervised by [Prof. Hongyun Liu](https://psych.bnu.edu.cn/szdw/zrjs/js/lhy/index.htm) at the [Dynamic Modeling & Assessment in Psychology (DyMAP) Lab](https://hongyun-liu.github.io/).
 
 In 2026, I am conducting a one-year research visit at the University of Groningen under the guidance of [Prof. Laura Bringmann](https://www.rug.nl/staff/l.f.bringmann/) in the [LaBlab](https://www.laurabringmannlab.com/).
 
@@ -28,11 +28,11 @@ My research centers on **Intensive Longitudinal Analysis**, **Bayesian Estimatio
 
 ## 🌟 Recent Highlights
 
-### 2026
+### **2026**
 - 🔍 **Visiting Researcher** at University of Groningen, The Netherlands (Jan-Dec 2026)
 - 📝 **Editorial Assistant** for *Acta Psychologica Sinica* (心理学报) and *Psych Journal*
 
-### 2025
+### **2025**
 - 🏅 **CAST Youth Science and Technology Talent Program** – Doctoral Project  
   *(Selected as one of 13 Ph.D. students nationwide by the Chinese Psychological Society)*
 - 🏅 **National Scholarship** for Ph.D. students
