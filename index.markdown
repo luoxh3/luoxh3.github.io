@@ -4,7 +4,7 @@ permalink: /
 nav_order: 1
 ---
 
-<div style="margin: 20px 0; text-align: center;">
+<div style="margin: 20px 0;">
     <img src="/assets/images/profile.jpg" alt="Xiaohui Luo" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; border: 3px solid #eee;">
 </div>
 
