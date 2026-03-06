@@ -30,8 +30,9 @@ My research centers on **Intensive Longitudinal Analysis**, **Bayesian Estimatio
 ## 🌟 Recent Highlights
 
 ### **2026**
-- 🔍 **Visiting Researcher** at University of Groningen, The Netherlands (Jan-Dec 2026)
+- ✍️ **First-authored paper** in *Psychometrika*
 - 📝 **Editorial Assistant** for *Acta Psychologica Sinica* (心理学报) and *Psych Journal*
+- 🔍 **Visiting Researcher** at University of Groningen, The Netherlands (Jan-Dec 2026)
 
 ### **2025**
 - 🏅 **CAST Youth Science and Technology Talent Program** – Doctoral Project  
