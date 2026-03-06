@@ -44,4 +44,4 @@ My research centers on **Intensive Longitudinal Analysis**, **Bayesian Estimatio
 
 📬 **Feel free to reach out** to discuss research collaborations, methodological questions, or potential opportunities!
 
-*Last updated: January 2026*
+*Last updated: Mar 2026*

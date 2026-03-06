@@ -16,7 +16,7 @@ I conduct research in three primary areas:
 
 ---
 ## 🚀 Publication Highlights
-**18 peer-reviewed articles (13 first-authored, 5 second-authored)**
+**19 peer-reviewed articles (14 first-authored, 5 second-authored)**
 
 First-authored papers published in
 
@@ -25,6 +25,7 @@ Methodological journals:
 - *Behavior Research Methods* \[IF: 3.9/6.8, Q1\]
 - *Multivariate Behavioral Research* \[IF: 3.5/4.7, Q1\]
 - *Structural Equation Modeling: A Multidisciplinary Journal* \[IF: 3.2/5.3, Q1\]
+- *Psychometrika* \[IF: 3.1/3.4, Q1\]
 
 Substantive journals:
 - *Assessment* \[IF: 3.4/4.1, Q1\]
@@ -33,12 +34,14 @@ Substantive journals:
 - *Journal of Youth and Adolescence* \[IF: 3.6/5.5, Q1\]
 - *Accident Analysis and Prevention* \[IF: 6.2/6.9, Q1\]
 
-**✚ 4 first-authored manuscripts** under review/in revision/revised & resubmit
+**✚ 3 first-authored manuscripts** under review/in revision/revised & resubmit
 
 *Notes: IF = impact factor \[for 2024 / the past five years\]; \*corresponding author(s);* \+*co-first authors.*
 
 ---
 ## Peer‐Reviewed Articles
+
+19. 🟧 **Luo, X.**, Hu, Y.\*, Liu, H.\*, & Liu, Y. (Accept). Enhancing two-stage estimation in differential equation models: A bias correction method via stochastic approximation. ***Psychometrika***. \[IF: 3.1/3.4, Q1\]
 
 18. 🟧 **Luo, X.**, Hu, Y.\*, & Liu, H.\* (2025). Timescale mismatch in intensive longitudinal data: Current issues and possible solutions based on dynamic structural equation models. ***Psychological Methods***. *Advanced Online Publication*. \[[doi](https://doi.org/10.1037/met0000749)\] \[IF: 7.8/10, Q1\] 
     <details>
@@ -142,8 +145,7 @@ Substantive journals:
 ---
 ## Manuscripts Under Review or in Preparation
 
-5. 🟧 **Luo, X.**, Hu, Y.\*, & Liu, H.\* (revised & resubmit). Examining within-person variability of each individual: How should we deal with non-varying individuals?
-4. 🟧 **Luo, X.**, Hu, Y.\*, Liu, H.\*, & Liu, Y. (revised & resubmit). Enhancing two-stage estimation in differential equation models: A bias correction method via stochastic approximation.
+4. 🟧 **Luo, X.**, Hu, Y.\*, & Liu, H.\* (revised & resubmit). Examining within-person variability of each individual: How should we deal with non-varying individuals?
 3. 🟧 **Luo, X.+**, Dong, J.+, Liu, H.\*, Liu, Y., & Merkle, E. C. (revised & resubmit). Bayesian evaluation of latent variable models: A tutorial on computing information criteria and Bayes factors with the R package *bleval*.
 2. 🟧 **Luo, X.**, Dou, J., & Liu, H.\* (under review). When standard two-method measurement planned missing designs reach their limits: Time-embedded adaptations for intensive longitudinal studies.
 1. 🟧 Liu, Y., **Luo, X.**, Dong, J., Hu, Y.\*, Liu, H.\*, & Bauer, D. (under review). Two-stage estimation of latent variable regression models: A general, root-n consistent solution.
