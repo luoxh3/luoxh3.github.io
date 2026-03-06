@@ -132,7 +132,7 @@ Substantive journals:
         - <em>Download the full article</em> : <a href="/assets/pdfs/2023_AAP_meta-analysis.pdf">Download PDF</a><br>
     </details>
 
-5. 🟧 Liu, Y., **Luo, X.**, Hu, Y., & Liu, H.\* (2026). Planned Measurement-Missing Designs in Intensive Longitudinal Studies: How Well Do They Recover Power and Parameter Estimates? *Structural Equation Modeling*. [IF: 3.2/5.3, Q1]
+5. 🟧 Liu, Y., **Luo, X.**, & Liu, H.\* (2026). Planned Measurement-Missing Designs in Intensive Longitudinal Studies: How Well Do They Recover Power and Parameter Estimates? ***Structural Equation Modeling: A Multidisciplinary Journal***. [IF: 3.2/5.3, Q1]
 
 4. 🟦 Jin, Z., **Luo, X.**, Ma, J., & Hu, Y. \* (2026). The dynamic impact of stress mindsets on fatigue: Insights from an ecological momentary assessment and RDSEM approach. *Applied Psychology: Health and Well-Being*, *18*(1), e70118. \[[doi](https://doi.org/10.1002/smi.70089)\] \[IF: 3.6/4.3, Q1\]
 
