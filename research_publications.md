@@ -5,22 +5,20 @@ permalink: /research_publications/
 
 ## 💡 Research
 
-My research aims to bridge methodological innovation, artificial intelligence, and precision health.
-
-My work is structured around three synergistic pillars:
+My research aims to bridge methodological innovation, artificial intelligence, and precision health. It is structured around three synergistic pillars:
 
 <div style="text-align: center;">
-    <img src="/assets/images/Research.svg" width="80%">
+    <img src="/assets/images/Research.svg" width="100%">
 </div>
 
 1. <span style="display:inline-block;width:18px;height:18px;background-color:#60808f;border-radius:3px;vertical-align:middle;margin-right:4px;"></span> **Advancing Methodology for Intensive Longitudinal Data**
-This includes empirical articles, reviews, and tutorials focused on advancing statistical methods in psychology, with a particular focus on intensive longitudinal data analysis techniques.
+    This includes empirical articles, reviews, and tutorials focused on advancing statistical methods in psychology, with a particular focus on intensive longitudinal data analysis techniques.
 
 2. <span style="display:inline-block;width:18px;height:18px;background-color:#9b82bb;border-radius:3px;vertical-align:middle;margin-right:4px;"></span> **Integrating AI and Machine Learning into Dynamic Analysis**
-I am actively extending my methodological toolkit by incorporating machine learning and large language models (LLMs) into ILD frameworks. My focus is on leveraging multimodal ILD (e.g., integrating self-reports with digital phenotyping, text, audio, and video data) to build LLM-based multi-agent systems capable of real-time risk prediction and automated insight generation.
+    I am actively extending my methodological toolkit by incorporating machine learning and large language models (LLMs) into ILD frameworks. My focus is on leveraging multimodal ILD (e.g., integrating self-reports with digital phenotyping, text, audio, and video data) to build LLM-based multi-agent systems capable of real-time risk prediction and automated insight generation.
 
 3. <span style="display:inline-block;width:18px;height:18px;background-color:#6da588;border-radius:3px;vertical-align:middle;margin-right:4px;"></span> **Translating Methods into Clinical-Health Applications**
-This line of research applies intensive longitudinal data analysis methods to tackle practical problems in health, clinical, and developmental psychology. It also involves collaborative efforts aimed at identifying real-world challenges and addressing them through joint projects.
+    This line of research applies intensive longitudinal data analysis methods to tackle practical problems in health, clinical, and developmental psychology. It also involves collaborative efforts aimed at identifying real-world challenges and addressing them through joint projects.
 
 ---
 ## 🚀 Publication Highlights
