@@ -1,6 +1,24 @@
 ---
-title: "Honors"
-permalink: /honors/
+title: "Background & Honors"
+permalink: /background_honors/
+---
+
+## 🎓 Education
+
+### **Ph.D. in Psychological Statistics and Psychometrics (2023 - 2028)**
+**Beijing Normal University (BNU), China**  
+- Advisor: [Prof. Hongyun Liu](https://psych.bnu.edu.cn/szdw/zrjs/js/lhy/index.htm)
+- Lab Website: [Dynamic Modeling & Assessment in Psychology (DyMAP)](https://hongyun-liu.github.io/)
+
+### **Visiting Student at University of Groningen (2026)**
+- Advisor: [Prof. L.F. (Laura) Bringmann](https://www.rug.nl/staff/l.f.bringmann/)
+- Lab Website: [LaBlab](https://www.laurabringmannlab.com/)
+  
+### **B.S. in Psychology (2019 - 2023)**
+**Beijing Normal University (BNU), China**  
+- Mentor: [Prof. Yueqin Hu](https://github.com/yueqinhu) 
+- GPA: 3.98/4.00
+
 ---
 
 ## 🎉 Selected Honors & Awards
