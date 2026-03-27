@@ -5,14 +5,14 @@ permalink: /research_publications/
 
 ## 💡 Research
 
-My research aims to bridge methodological innovation, artificial intelligence, and precision health. It is structured around three synergistic pillars:
+My research aims to bridge methodological innovation, artificial intelligence, and precision health, organized around three interconnected pillars:
 
 <div style="text-align: center;">
     <img src="/assets/images/Research.svg" width="100%">
 </div>
 
 <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span> **Advancing Methodology for Intensive Longitudinal Data.**
-This includes empirical articles, reviews, and tutorials focused on advancing statistical methods in psychology, with a particular focus on intensive longitudinal data analysis techniques.
+I develop and refine statistical models to address core challenges in intensive longitudinal data (ILD), such as time-related issues, dynamic bidirectional modeling, and the modeling and evaluation of intensive longitudinal interventions (e.g., just-in-time adaptive interventions).
 
 <span style="display:inline-block;width:18px;height:18px;background-color:#9b82bb;border-radius:3px;vertical-align:middle;margin-right:4px;"></span> **Integrating AI and Machine Learning into Dynamic Analysis.** I am actively extending my methodological toolkit by incorporating machine learning and large language models (LLMs) into ILD frameworks. My focus is on leveraging multimodal ILD (e.g., integrating self-reports with digital phenotyping, text, audio, and video data) to build LLM-based multi-agent systems capable of real-time risk prediction and automated insight generation.
 
