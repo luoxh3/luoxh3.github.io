@@ -6,12 +6,14 @@ permalink: /service/
 ## 📝 Academic Service
 
 ### **Journal Article Review**
+- Psychological Methods
 - Multivariate Behavioral Research
 - British Journal of Mathematical and Statistical Psychology
 - Mindfulness
 - Death Studies
 - BMC Public Health
 - BMC Psychology
+- Scientific Reports
 - Journal of Pacific Rim Psychology
 - Psych Journal
 - Journal of Behavioral Data Science
@@ -19,8 +21,8 @@ permalink: /service/
 - Journal of China Examinations (中国考试)
 
 ### **Journal Editing**
-- Acta Psychologica Sinica (心理学报), Editorial Assistant (2026 - present)
-- Psych Journal, Editorial Assistant (2026 - present)
+- Acta Psychologica Sinica (心理学报), Editorial Assistant (2026)
+- Psych Journal, Editorial Assistant (2026)
 
 ---
 

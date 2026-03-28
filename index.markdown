@@ -30,7 +30,7 @@ My research aims to bridge **methodological innovation**, **AI and machine learn
 ## 🌟 Recent Highlights
 
 ### **2026**
-- ✍️ *Mar 6, 2026* — **First-authored paper accepted** in ***Psychometrika***. This work develops a bias-correction method via stochastic approximation for two-stage  estimation in differential equation models (likely the most technically demanding project of my PhD journey so far). I am deeply grateful to [Prof. Hongyun Liu](https://psych.bnu.edu.cn/szdw/zrjs/js/lhy/index.htm), [Prof. Yueqin Hu](https://github.com/yueqinhu), and [Prof. Yang Liu](https://terpconnect.umd.edu/~yliu87/) for their dedicated mentorship, which was instrumental in helping me navigate the complexities of this work and bring it to life.
+- ✍️ *Mar, 2026* — **First-authored paper accepted** in ***Psychometrika***. This work develops a bias-correction method via stochastic approximation for two-stage  estimation in differential equation models (likely the most technically demanding project of my PhD journey so far). I am deeply grateful to [Prof. Hongyun Liu](https://psych.bnu.edu.cn/szdw/zrjs/js/lhy/index.htm), [Prof. Yueqin Hu](https://github.com/yueqinhu), and [Prof. Yang Liu](https://terpconnect.umd.edu/~yliu87/) for their dedicated mentorship that helped me navigate the complexities of this work and bring it to life.
 - 📝 *Jan, 2026* — **Editorial Assistant** for *Acta Psychologica Sinica* (心理学报) and *Psych Journal*. Truly honored to support the editorial process of these journals!
 - 🔍 *Jan - Dec, 2026* — **Visiting Researcher** at University of Groningen, The Netherlands. So excited about all the new experiences, collaborations, and perspectives this visit brings!
 
