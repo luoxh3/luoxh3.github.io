@@ -32,11 +32,11 @@ Methodological journals:
 - *Psychometrika* \[IF: 3.1/3.4, Q1\]
 
 Substantive journals:
+- *Accident Analysis and Prevention* \[IF: 6.2/6.9, Q1\]
+- *Journal of Youth and Adolescence* \[IF: 3.6/5.5, Q1\]
+- *Mindfulness* \[IF: 3.5/4.4, Q1\]
 - *Assessment* \[IF: 3.4/4.1, Q1\]
 - *Health Psychology* \[IF: 3.2/4.0, Q1\]
-- *Mindfulness* \[IF: 3.5/4.4, Q1\]
-- *Journal of Youth and Adolescence* \[IF: 3.6/5.5, Q1\]
-- *Accident Analysis and Prevention* \[IF: 6.2/6.9, Q1\]
 
 **✚ 3 first-authored manuscripts** under review/in revision/revised & resubmit
 
@@ -147,7 +147,7 @@ Substantive journals:
 1. <span style="display:inline-block;width:18px;height:18px;background-color:#6da588;border-radius:3px;vertical-align:middle;margin-right:4px;"></span> Qu, W., **Luo, X.**, Wang, Y., & Ge, Y.\* (2022). Effects of personality on driving behaviors among professional truck drivers: the mediating effect of safety climate. *Transportation Research Part F: Traffic Psychology and Behaviour*, *89*, 289–302. \[[doi](https://www.sciencedirect.com/science/article/pii/S136984782200153X?via%3Dihub)\] \[IF: 4.4/5.2, Q1\]
 
 ---
-## Manuscripts Under Review or in Preparation
+## Manuscripts Under Review or Revised & Resubmit
 
 4. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Hu, Y.\*, & Liu, H.\* (revised & resubmit). Examining within-person variability of each individual: How should we deal with non-varying individuals?
 3. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.+**, Dong, J.+, Liu, H.\*, Liu, Y., & Merkle, E. C. (revised & resubmit). Bayesian evaluation of latent variable models: A tutorial on computing information criteria and Bayes factors with the R package *bleval*.
