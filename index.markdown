@@ -23,7 +23,11 @@ Hi! I am Xiaohui Luo, a PhD candidate in **Psychological Statistics and Psychome
 
 In 2026, I am conducting a one-year research visit at the University of Groningen under the guidance of [Prof. Laura Bringmann](https://www.rug.nl/staff/l.f.bringmann/) in the [LaBlab](https://www.laurabringmannlab.com/).
 
-My research aims to bridge **methodological innovation**, **AI and machine learning**, and **precision behavioral health**. My work spans three pillars: <span style="color:#6398b0;">advancing statistical methods for intensive longitudinal data</span>, <span style="color:#9b82bb;">integrating machine learning and LLMs into dynamic analysis frameworks</span>, and <span style="color:#6da588;">translating these methods into clinical-health and developmental psychology applications</span>. For more details, see the [**Research & Publications**](/research_publications/) section.
+My research aims to bridge methodological innovation, AI and machine learning, and precision behavioral health. My work spans three pillars:<br>
+<span style="color:#6398b0;">**(1) advancing statistical methods for intensive longitudinal data**</span><br>
+<span style="color:#9b82bb;">**(2) integrating machine learning and LLMs into dynamic analysis frameworks**</span><br>
+<span style="color:#6da588;">**(3) translating these methods into clinical-health and developmental psychology applications**</span><br>
+For more details, see the [**Research & Publications**](/research_publications/) section.
 
 ---
 
