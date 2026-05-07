@@ -20,7 +20,7 @@ I develop and refine statistical models to address core challenges in intensive 
 
 ---
 ## 🚀 Publication Highlights
-**19 peer-reviewed articles (14 first-authored, 5 second-authored)**
+**20 peer-reviewed articles (15 first-authored, 5 second-authored)**
 
 First-authored papers published in
 
@@ -38,12 +38,14 @@ Substantive journals:
 - *Assessment* \[IF: 3.4/4.1, Q1\]
 - *Health Psychology* \[IF: 3.2/4.0, Q1\]
 
-**✚ 3 first-authored manuscripts** under review/in revision/revised & resubmit
+**✚ 2 first-authored manuscripts** under review/in revision/revised & resubmit
 
 *Notes: IF = impact factor \[for 2024 / the past five years\]; \*corresponding author(s);* \+*co-first authors.*
 
 ---
 ## Peer‐Reviewed Articles
+
+20. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.+**, Dong, J.+, Liu, H.\*, Liu, Y., & Merkle, E. C. (Accepted). Bayesian evaluation of latent variable models: A tutorial on computing information criteria and Bayes factors with the R package *bleval*. \[IF: 7.8/10, Q1\] 
 
 19. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Hu, Y.\*, Liu, H.\*, & Liu, Y. (2026). Enhancing two-stage estimation in differential equation models: A bias correction method via stochastic approximation. ***Psychometrika***. *Advanced Online Publication*. \[[doi](https://doi.org/10.1017/psy.2026.10104)\] \[IF: 3.1/3.4, Q1\]
 
@@ -149,8 +151,7 @@ Substantive journals:
 ---
 ## Manuscripts Under Review or Revised & Resubmit
 
-4. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Hu, Y.\*, & Liu, H.\* (revised & resubmit). Examining within-person variability of each individual: How should we deal with non-varying individuals?
-3. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.+**, Dong, J.+, Liu, H.\*, Liu, Y., & Merkle, E. C. (revised & resubmit). Bayesian evaluation of latent variable models: A tutorial on computing information criteria and Bayes factors with the R package *bleval*.
+3. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Hu, Y.\*, & Liu, H.\* (revised & resubmit). Examining within-person variability of each individual: How should we deal with non-varying individuals?
 2. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Dou, J., & Liu, H.\* (under review). When standard two-method measurement planned missing designs reach their limits: Time-embedded adaptations for intensive longitudinal studies.
 1. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  Liu, Y., **Luo, X.**, Dong, J., Hu, Y.\*, Liu, H.\*, & Bauer, D. (under review). Two-stage estimation of latent variable regression models: A general, root-n consistent solution.
 
@@ -158,7 +159,7 @@ Substantive journals:
 
 ## Conference Papers
 
-7. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Liu, H.\*, & Bringmann, L. F. (2026, August, Vienna, Austria). Beyond pre-post comparisons: A comprehensive effect size framework for intensive longitudinal interventions via time-varying modeling. In *the 2026 Meeting of Society for Ambulatory Assessment*.
+7. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Liu, H.\*, & Bringmann, L. F. (2026, August, Vienna, Austria). Beyond pre-post comparisons: A comprehensive effect size framework for intensive longitudinal interventions via time-varying modeling. In *the 2026 Meeting of Society for Ambulatory Assessment*. \[**SAA 2026 Travel Scholarship**\]
 6. <span style="display:inline-block;width:18px;height:18px;background-color:#9b82bb;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, & Liu, H.\* (2026, Jul, Seoul, Korea). A multi-agent AI framework for real-time mental health risk forecasting and evidence-based clinical insight generation. In *the 2026 International Meeting of the Psychometric Society*.
 6. <span style="display:inline-block;width:18px;height:18px;background-color:#9b82bb;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Gao, Y., & Liu, H.\* (2026, Jul, Beijing, China). Comparative benchmarking of mixed-effects machine learning and large language models on real-time depression forecasting. In *the 2026 Meeting of International Society for Data Science and Analytics*.
 5. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Hu, Y.\*, Liu, H.\*, & Liu, Y. (2025, Jul, Washington, USA). Bayesian evaluation of latent variable models: A practical tutorial with the R package *bleval*. In *the 2025 International Meeting of the Psychometric Society*.

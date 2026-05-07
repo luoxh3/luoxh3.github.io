@@ -23,6 +23,7 @@ permalink: /background_honors/
 
 ## 🎉 Selected Honors & Awards
 
+- **SAA 2026 Travel Scholarship**, Society for Ambulatory Assessment - 2026
 - Selected for the China Association for Science and Technology (CAST) Youth Science and Technology Talent Program - Doctoral Project (入选中国科协青年科技人才培育工程博士生专项计划), **as one of 13 PhD students selected nationwide by the Chinese Psychological Society** - 2025
 - **National Scholarship**, Minister of Education of China - 2025
 - **Best Paper Award**, The Annual Meeting of the International Society for Data Science and Analytics (ISDSA) - 2025

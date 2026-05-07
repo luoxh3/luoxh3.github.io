@@ -14,6 +14,7 @@ permalink: /service/
 - BMC Public Health
 - BMC Psychology
 - Scientific Reports
+- Humanities and Social Sciences Communications
 - Journal of Pacific Rim Psychology
 - Psych Journal
 - Journal of Behavioral Data Science

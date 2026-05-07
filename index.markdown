@@ -34,6 +34,8 @@ For more details, see the [**Research & Publications**](/research_publications/)
 ## 🌟 Recent Highlights
 
 ### **2026**
+- ✍️ *May, 2026* — **First-authored paper accepted** in ***Psychological Methods***. This tutorial introduces Bayesian evaluation of latent variable models using the R package **bleval**, covering information criteria and Bayes factors. Deeply grateful to [Prof. Edgar C. Merkle](https://ecmerkle.org/) for his insightful guidance on the tutorial and package development, to my advisors [Prof. Hongyun Liu](https://psych.bnu.edu.cn/szdw/zrjs/js/lhy/index.htm) and [Prof. Yang Liu](https://terpconnect.umd.edu/~yliu87/) for their invaluable mentorship, and to my co-first-author Jieyuan Dong for the great teamwork.
+- 🏆 *Apr, 2026* — **Awarded the SAA 2026 Travel Scholarship** for active participation in the Society for Ambulatory Assessment Conference in Vienna. Truly honored and looking forward to presenting our work there!
 - ✍️ *Mar, 2026* — **First-authored paper accepted** in ***Psychometrika***. This work develops a bias-correction method via stochastic approximation for two-stage  estimation in differential equation models (likely the most technically demanding project of my PhD journey so far). I am deeply grateful to [Prof. Hongyun Liu](https://psych.bnu.edu.cn/szdw/zrjs/js/lhy/index.htm), [Prof. Yueqin Hu](https://github.com/yueqinhu), and [Prof. Yang Liu](https://terpconnect.umd.edu/~yliu87/) for their dedicated mentorship that helped me navigate the complexities of this work and bring it to life.
 - 📝 *Jan, 2026* — **Editorial Assistant** for *Acta Psychologica Sinica* (心理学报) and *Psych Journal*. Truly honored to support the editorial process of these journals!
 - 🔍 *Jan - Dec, 2026* — **Visiting Researcher** at University of Groningen, The Netherlands. So excited about all the new experiences, collaborations, and perspectives this visit brings!
@@ -49,4 +51,4 @@ For more details, see the [**Research & Publications**](/research_publications/)
 
 📬 **Feel free to reach out** to discuss research collaborations, methodological questions, or potential opportunities!
 
-*Last updated: Mar 2026*
+*Last updated: May 2026*
