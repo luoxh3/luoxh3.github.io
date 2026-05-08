@@ -45,10 +45,15 @@ Substantive journals:
 ---
 ## Peer‐Reviewed Articles
 
-20. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.+**, Dong, J.+, Liu, H.\*, Liu, Y., & Merkle, E. C. (Accepted). Bayesian evaluation of latent variable models: A tutorial on computing information criteria and Bayes factors with the R package *bleval*. \[IF: 7.8/10, Q1\] 
+20. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.+**, Dong, J.+, Liu, H.\*, Liu, Y., & Merkle, E. C. (Accepted). Bayesian evaluation of latent variable models: A tutorial on computing information criteria and Bayes factors with the R package *bleval*. ***Psychological Methods***. \[IF: 7.8/10, Q1\] 
 
 19. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Hu, Y.\*, Liu, H.\*, & Liu, Y. (2026). Enhancing two-stage estimation in differential equation models: A bias correction method via stochastic approximation. ***Psychometrika***. *Advanced Online Publication*. \[[doi](https://doi.org/10.1017/psy.2026.10104)\] \[IF: 3.1/3.4, Q1\]
-
+    <details>
+        <summary>Click to expand for more details</summary>
+        - <em>Download the full article</em> : <a href="/assets/pdfs/2026_Psychometrika_Enhancing Two-Stage Estimation in Differential Equation Models.pdf">Download PDF</a><br>
+            <img src="/assets/images/Bias_Correction.pdf" width="80%">
+        </div>
+    </details>
 18. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Hu, Y.\*, & Liu, H.\* (2025). Timescale mismatch in intensive longitudinal data: Current issues and possible solutions based on dynamic structural equation models. ***Psychological Methods***. *Advanced Online Publication*. \[[doi](https://doi.org/10.1037/met0000749)\] \[IF: 7.8/10, Q1\] 
     <details>
         <summary>Click to expand for more details</summary>
