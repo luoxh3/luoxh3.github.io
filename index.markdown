@@ -10,7 +10,7 @@ nav_order: 1
 
 ## **Xiaohui LUO (罗晓慧)**  
 **Ph.D. Candidate in Psychological Statistics and Psychometrics**  
-Beijing Normal University | Visiting Researcher at University of Groningen
+**Beijing Normal University | Visiting Researcher at University of Groningen**
 
 📧 **Email**: luoxh333@gmail.com
 🔗 [**Google Scholar**](https://scholar.google.com.hk/citations?hl=zh-CN&user=fyGml2AAAAAJ) | [**ResearchGate**](https://www.researchgate.net/profile/Xiaohui-Luo-9) | [**GitHub**](https://github.com/luoxh3) | [**ORCID**](https://orcid.org/my-orcid?orcid=0000-0002-6462-0220)
@@ -19,7 +19,7 @@ Beijing Normal University | Visiting Researcher at University of Groningen
 
 ## 👋 About Me
 
-Hi! I am Xiaohui Luo, a PhD candidate in **Psychological Statistics and Psychometrics** at Beijing Normal University (BNU). I am supervised by [Prof. Hongyun Liu](https://psych.bnu.edu.cn/szdw/zrjs/js/lhy/index.htm) at the [Dynamic Modeling & Assessment in Psychology (DyMAP) Lab](https://hongyun-liu.github.io/).
+Hi! I am Xiaohui Luo, a PhD candidate in Psychological Statistics and Psychometrics at Beijing Normal University (BNU). I am supervised by [Prof. Hongyun Liu](https://psych.bnu.edu.cn/szdw/zrjs/js/lhy/index.htm) at the [Dynamic Modeling & Assessment in Psychology (DyMAP) Lab](https://hongyun-liu.github.io/).
 
 In 2026, I am conducting a one-year research visit at the University of Groningen under the guidance of [Prof. Laura Bringmann](https://www.rug.nl/staff/l.f.bringmann/) in the [LaBlab](https://www.laurabringmannlab.com/).
 
@@ -51,4 +51,4 @@ For more details, see the [**Research & Publications**](/research_publications/)
 
 📬 **Feel free to reach out** to discuss research collaborations, methodological questions, or potential opportunities!
 
-*Last updated: May 2026*
+*Last updated: Jun 2026*
