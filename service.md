@@ -10,6 +10,8 @@ permalink: /service/
 - Multivariate Behavioral Research
 - British Journal of Mathematical and Statistical Psychology
 - Mindfulness
+- Applied Psychology Health and Well-Being
+- Applied Research in Quality of Life
 - Death Studies
 - BMC Public Health
 - BMC Psychology

@@ -45,8 +45,15 @@ Substantive journals:
 ---
 ## Peer‐Reviewed Articles
 
-20. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.+**, Dong, J.+, Liu, H.\*, Liu, Y., & Merkle, E. C. (Accepted). Bayesian evaluation of latent variable models: A tutorial on computing information criteria and Bayes factors with the R package *bleval*. ***Psychological Methods***. \[IF: 7.5/11.5, Q1\] 
-
+20. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.+**, Dong, J.+, Liu, H.\*, Liu, Y., & Merkle, E. C. (2026). Bayesian evaluation of latent variable models: A tutorial on computing information criteria and Bayes factors with the R package *bleval*. ***Psychological Methods***. \[[doi](https://doi.org/10.1037/met0000852)\] \[IF: 7.5/11.5, Q1\] 
+    <details>
+        <summary>Click to expand for more details</summary>
+        - <em>Download the full article</em> : <a href="/assets/pdfs/2026online_PM_Bayesian Evaluation for Latent Variable Models.pdf">Download PDF</a><br>
+        - <em>R package</em> : <a href="https://github.com/luoxh3/bleval">bleval</a>
+        <div style="text-align: center;">
+            <img src="/assets/images/Rpackage_bleval.png" width="80%">
+        </div>
+    </details>
 19. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Hu, Y.\*, Liu, H.\*, & Liu, Y. (2026). Enhancing two-stage estimation in differential equation models: A bias correction method via stochastic approximation. ***Psychometrika***. *Advanced Online Publication*. \[[doi](https://doi.org/10.1017/psy.2026.10104)\] \[IF: 2.9/4.1, Q1\]
     <details>
         <summary>Click to expand for more details</summary>
