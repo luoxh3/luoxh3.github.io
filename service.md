@@ -12,6 +12,7 @@ permalink: /service/
 - Mindfulness
 - Applied Psychology Health and Well-Being
 - Applied Research in Quality of Life
+- Social Psychology of Education
 - Death Studies
 - BMC Public Health
 - BMC Psychology
