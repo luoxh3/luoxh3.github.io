@@ -51,4 +51,4 @@ For more details, see the [**Research & Publications**](/research_publications/)
 
 📬 **Feel free to reach out** to discuss research collaborations, methodological questions, or potential opportunities!
 
-*Last updated: Jun 2026*
+*Last updated: Jul 2026*
