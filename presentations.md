@@ -1,6 +1,7 @@
 ---
 title: "Presentations"
 permalink: /presentations/
+nav_order: 4
 ---
 
 ## 🎤 Conference Presentations
@@ -27,15 +28,15 @@ permalink: /presentations/
 
 11. **Luo, X.** (2026, Jun, Groningen, Netherlands). *A multi-agent conversational AI system for depression screening*. LaBlab Meeting, Department of Psychometrics & Statistics, University of Groningen.
 
-10.	Luo, X. (2026, May, Groningen, Netherlands). *Beyond aggregate accuracy: A Bayesian time-varying autoregressive model and its multilevel extension with pointwise trajectory evaluation*. Psychometrics & Statistics Research Meeting, University of Groningen.
+10. **Luo, X.** (2026, May, Groningen, Netherlands). *Beyond aggregate accuracy: A Bayesian time-varying autoregressive model and its multilevel extension with pointwise trajectory evaluation*. Psychometrics & Statistics Research Meeting, University of Groningen.
 
 9. **Luo, X.** (2026, Apr, Groningen, Netherlands). *From cross-lagged effects to feedback loops: Modeling reciprocal dynamics in intensive longitudinal data*. Stress in Action Project Meeting, University of Groningen.
 
-8. **Luo, X.** (2025, Mar, Beijing, China). *A psychologist's path into quantitative methods: Building a research identity that bridges methodology and application*. National Scholarship Academic Salon, Faculty of Psychology, Beijing Normal University. \[**Invited as a National Scholarship recipient**\] \[event report\](https://mp.weixin.qq.com/s/2IibJoFM_J3xaIFKCjC9Ww)
+8. **Luo, X.** (2025, Mar, Beijing, China). *A psychologist's path into quantitative methods: Building a research identity that bridges methodology and application*. National Scholarship Academic Salon, Faculty of Psychology, Beijing Normal University. \[**Invited as a National Scholarship recipient**\] [event report](https://mp.weixin.qq.com/s/2IibJoFM_J3xaIFKCjC9Ww)
 
-7. **Luo, X.** (2024, Jun, Beijing, China). *Planning and executing an undergraduate thesis: Topic selection, advisor fit, and preparing for the defense*. Outstanding Undergraduate Thesis Experience Sharing Session, Faculty of Psychology, Beijing Normal University. \[event report\] (https://mp.weixin.qq.com/s/Qhn6zASpl_m3HUFO8aP6kg)
+7. **Luo, X.** (2024, Jun, Beijing, China). *Planning and executing an undergraduate thesis: Topic selection, advisor fit, and preparing for the defense*. Outstanding Undergraduate Thesis Experience Sharing Session, Faculty of Psychology, Beijing Normal University. [event report](https://mp.weixin.qq.com/s/Qhn6zASpl_m3HUFO8aP6kg)
 
-6. **Luo, X.** (2023, Dec, Beijing, China). *Modeling psychological processes as dynamic systems: Behind an award-winning research project on food cravings and unhealthy snacking*. Invited workshop for undergraduate students, Faculty of Psychology, Beijing Normal University. \[Based on work awarded **First Prize**, "Jingshi Cup" Academic Science and Technology Competition\] \[event report\] (https://mp.weixin.qq.com/s/0ho8Q4C6Hc31-9QsWefp3w)
+6. **Luo, X.** (2023, Dec, Beijing, China). *Modeling psychological processes as dynamic systems: Behind an award-winning research project on food cravings and unhealthy snacking*. Invited workshop for undergraduate students, Faculty of Psychology, Beijing Normal University. \[Based on work awarded **First Prize**, "Jingshi Cup" Academic Science and Technology Competition\] [event report](https://mp.weixin.qq.com/s/0ho8Q4C6Hc31-9QsWefp3w)
 
 5. **Luo, X.** (2023, Nov, Beijing, China). *From Macro to Micro Timescales: What and how can we gain from intensive longitudinal studies?* Faculty of Psychology, Beijing Normal University.
 
@@ -45,7 +46,7 @@ permalink: /presentations/
 
 2. **Luo, X.** (2023, Jun, Beijing, China). *Building a research profile as an undergraduate: Preparing for postgraduate recommendation in psychology*. Invited guest lecture, undergraduate course, Beijing Normal University.
 
-1. **Luo, X.** (2023, Jun, Online). *Pathways into a research career: A panel discussion on graduate study in psychology*. Beijing Normal University at Zhuhai. \[event report\](https://mp.weixin.qq.com/s/F3U_mhFjjbTEB3gmstV1jQ)
+1. **Luo, X.** (2023, Jun, Online). *Pathways into a research career: A panel discussion on graduate study in psychology*. Beijing Normal University at Zhuhai. [event report](https://mp.weixin.qq.com/s/F3U_mhFjjbTEB3gmstV1jQ)
 
 ---
 

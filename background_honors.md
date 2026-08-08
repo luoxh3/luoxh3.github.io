@@ -1,6 +1,7 @@
 ---
 title: "Background & Honors"
 permalink: /background_honors/
+nav_order: 2
 ---
 
 ## 🎓 Education
@@ -30,7 +31,7 @@ permalink: /background_honors/
 - **Academic Special Prize Scholarship**, Beijing Normal University - 2025
 - **National Scholarship** (PhD student), Minister of Education of China - 2025
 - **National Scholarship** (master's student), Minister of Education of China - 2024
-- **Featured interview**, official media of Beijing Normal University; 16.3k views \[feature\] (https://mp.weixin.qq.com/s/nB2jOwcfW8SFWqyuTZ3sZA) - 2023 
+- **Featured interview**, official media of Beijing Normal University; 16.3k views [feature](https://mp.weixin.qq.com/s/nB2jOwcfW8SFWqyuTZ3sZA) - 2023
 - **Outstanding Undergraduate Thesis**, Beijing Municipal Education Commission - 2023
 - **Outstanding Graduates**, Beijing Municipal Education Commission - 2023
 - **Huawei Scholarship**, Huawei Technologies Co., Ltd (2 undergraduate recipients) - 2023

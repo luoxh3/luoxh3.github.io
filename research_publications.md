@@ -1,6 +1,7 @@
 ---
 title: Research & Publications
 permalink: /research_publications/ 
+nav_order: 3
 ---
 
 ## 💡 Research

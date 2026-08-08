@@ -33,20 +33,8 @@ just_the_docs:
   nav_depth: 2
   nav_sort: manual
 
-nav:
-  - title: "Home"
-    url: /
-    nav_order: 1
-  - title: "Background & Honors"
-    url: /background_honors/
-    nav_order: 2
-  - title: "Research & Publications"
-    url: /research_publications/
-    nav_order: 3
-  - title: "Presentations"
-    url: /presentations/
-    nav_order: 4
-  - title: "Service"
-    url: /service/
-    nav_order: 5
+# Note: page order in the nav is controlled by each page's own front-matter
+# `nav_order:` (see index.markdown, background_honors.md, research_publications.md,
+# presentations.md, service.md), not by a top-level `nav:` list — just-the-docs
+# does not read one, so it isn't defined here.
 
