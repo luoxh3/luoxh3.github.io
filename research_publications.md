@@ -82,7 +82,7 @@ Substantive journals:
         <summary>Click to expand for more details</summary>
         - <em>Download the full article</em> : <a href="/assets/pdfs/2025_MBR_Incorporating Qualitative Distinctions in Within-Person Effect Analyses.pdf">Download PDF</a><br>
     </details>
-15. <span style="display:inline-block;width:18px;height:18px;background-color:#6da588;border-radius:3px;vertical-align:middle;margin-right:4px;"></span> **Luo, X.+**, Wang, H.+, Xu, J., Liu, H.\*, Suveg, C., & Han, Z.\* (2025). Dynamic processes of parent-adolescent conflict and warmth in Chinese families: Differences between mothers and fathers. *Journal of Youth and Adolescence, 54*, 1985–1998. \[[doi](https://doi.org/10.1007/s10964-025-02160-5)\] \[IF: 3.6/5.5, Q1\]
+15. <span style="display:inline-block;width:18px;height:18px;background-color:#6da588;border-radius:3px;vertical-align:middle;margin-right:4px;"></span> **Luo, X.+**, Wang, H.+, Xu, J., Liu, H.\*, Suveg, C., & Han, Z.\* (2025). Dynamic processes of parent-adolescent conflict and warmth in Chinese families: Differences between mothers and fathers. *Journal of Youth and Adolescence, 54*, 1985–1998. \[[doi](https://doi.org/10.1007/s10964-025-02160-5)\] \[IF: 4.5/5.9, Q1\]
     <details>
         <summary>Click to expand for more details</summary>
         - <em>Download the full article</em> : <a href="/assets/pdfs/2025_JYA_Dynamic Processes of Parent–Adolescent Interaction.pdf">Download PDF</a><br>
