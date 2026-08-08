@@ -6,21 +6,21 @@ nav_order: 4
 
 ## 🎤 Conference Presentations
 
-8. **Luo, X.**, Liu, H.\*, & Bringmann, L. F. (2026, Aug, Vienna, Austria). *Beyond pre-post comparisons: A comprehensive effect size framework for intensive longitudinal interventions via time-varying modeling*. In *the 2026 Meeting of the Society for Ambulatory Assessment*. \[**SAA 2026 Travel Scholarship**\]
+8. **Luo, X.**, Liu, H.\*, & Bringmann, L. F. (2026, Aug, Vienna, Austria). *Beyond pre-post comparisons: A comprehensive effect size framework for intensive longitudinal interventions via time-varying modeling*. In the 2026 Meeting of the Society for Ambulatory Assessment. \[**SAA 2026 Travel Scholarship**\]
 
-7. **Luo, X.**, & Liu, H.\* (2026, Jul, Seoul, Korea). *A generalizable large language model for real-time mental health risk forecasting via digital phenotyping*. In *the 2026 International Meeting of the Psychometric Society*.
+7. **Luo, X.**, & Liu, H.\* (2026, Jul, Seoul, Korea). *A generalizable large language model for real-time mental health risk forecasting via digital phenotyping*. In the 2026 International Meeting of the Psychometric Society.
 
-6. **Luo, X.**, Gao, Y., & Liu, H.\* (2026, Jul, Beijing, China). *Comparative benchmarking of mixed-effects machine learning and fine-tuned large language models in intensive longitudinal data*. In *the 2026 Meeting of International Society for Data Science and Analytics*.
+6. **Luo, X.**, Gao, Y., & Liu, H.\* (2026, Jul, Beijing, China). *Comparative benchmarking of mixed-effects machine learning and fine-tuned large language models in intensive longitudinal data*. In the 2026 Meeting of International Society for Data Science and Analytics.
 
-5. **Luo, X.**, Hu, Y.\*, Liu, H.\*, & Liu, Y. (2025, Jul, Washington, USA). *Enhancing two-stage estimation in differential equation models: A bias correction method via stochastic approximation*. In *the 2025 Meeting of International Society for Data Science and Analytics*. \[**Best Paper Award**\]
+5. **Luo, X.**, Hu, Y.\*, Liu, H.\*, & Liu, Y. (2025, Jul, Washington, USA). *Enhancing two-stage estimation in differential equation models: A bias correction method via stochastic approximation*. In the 2025 Meeting of International Society for Data Science and Analytics. \[**Best Paper Award**\]
 
-4. **Luo, X.**, Dong, J., Liu, H.\*, & Liu, Y. (2025, Jul, Minnesota, USA). *Bayesian evaluation of latent variable models: A practical tutorial with the R package bleval*. In *the 2025 International Meeting of the Psychometric Society*.
+4. **Luo, X.**, Dong, J., Liu, H.\*, & Liu, Y. (2025, Jul, Minnesota, USA). *Bayesian evaluation of latent variable models: A practical tutorial with the R package bleval*. In the 2025 International Meeting of the Psychometric Society.
 
-3. **Luo, X.**, Liu, Y., & Liu, H.\* (2024, Oct, Ithaca, USA). *Incorporating qualitative distinctions in within-person effect analysis*. In *the 2024 Annual Meeting of the Society of Multivariate Experimental Psychology*.
+3. **Luo, X.**, Liu, Y., & Liu, H.\* (2024, Oct, Ithaca, USA). *Incorporating qualitative distinctions in within-person effect analysis*. In the 2024 Annual Meeting of the Society of Multivariate Experimental Psychology.
 
-2. **Luo, X.**, Hu, Y., & Liu, H.\* (2023, Jul, Shanghai, China). *Assessing between- and within-person reliabilities of items and scale for daily procrastination: A multilevel and dynamic approach*. In *the 2023 Meeting of International Society for Data Science and Analytics*.
+2. **Luo, X.**, Hu, Y., & Liu, H.\* (2023, Jul, Shanghai, China). *Assessing between- and within-person reliabilities of items and scale for daily procrastination: A multilevel and dynamic approach*. In the 2023 Meeting of International Society for Data Science and Analytics.
 
-1. Qu, W., **Luo, X.**, Hou, J., & Ge, Y.\* (2023, Jul, Online). *Impact of locus of control on dangerous driving behavior and positive driving behavior in China*. In *the 2023 International Conference on Human-Computer Interaction*.
+1. Qu, W., **Luo, X.**, Hou, J., & Ge, Y.\* (2023, Jul, Online). *Impact of locus of control on dangerous driving behavior and positive driving behavior in China*. In the 2023 International Conference on Human-Computer Interaction.
 
 ---
 
@@ -42,8 +42,8 @@ nav_order: 4
 
 4. **Luo, X.** (2023, Jun, Online). *Intensive longitudinal studies: What, why and how?* School of Psychology, Sichuan Normal University.
 
-3. **Luo, X.** (2023, Jun, Beijing, China). *Telling a compelling academic story: Why, what & how*. Invited guest lecture, undergraduate course on Academic Writing, Faculty of Psychology, Beijing Normal University.
+3. **Luo, X.** (2023, Apr, Beijing, China). *Telling a compelling academic story: Why, what & how*. Invited guest lecture, undergraduate course on Academic Writing, Faculty of Psychology, Beijing Normal University.
 
-2. **Luo, X.** (2023, Jun, Beijing, China). *Building a research profile as an undergraduate: Preparing for postgraduate recommendation in psychology*. Invited guest lecture, undergraduate course, Beijing Normal University.
+2. **Luo, X.** (2023, Mar, Beijing, China). *Building a research profile as an undergraduate: Preparing for postgraduate recommendation in psychology*. Invited guest lecture, undergraduate course, Beijing Normal University.
 
-1. **Luo, X.** (2023, Jun, Online). *Pathways into a research career: A panel discussion on graduate study in psychology*. Beijing Normal University at Zhuhai. [event report](https://mp.weixin.qq.com/s/F3U_mhFjjbTEB3gmstV1jQ)
+1. **Luo, X.** (2022, Dec, Online). *Pathways into a research career: A panel discussion on graduate study in psychology*. Beijing Normal University at Zhuhai. [event report](https://mp.weixin.qq.com/s/F3U_mhFjjbTEB3gmstV1jQ)

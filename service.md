@@ -43,4 +43,4 @@ nav_order: 5
 - Member of the Society for Ambulatory Assessment (SAA), 2026 - present
 - Member of the "Measurement is the New Black" (MITNB) consortium, 2026 - present
 - Member of the International Society for Data Science and Analytics (ISDSA), 2023 - present
-- Member of the Chinese Psychological Society, 2023 - present
+- Member of the Chinese Psychological Society, 2019 - present
