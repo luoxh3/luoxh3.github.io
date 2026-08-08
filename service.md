@@ -8,7 +8,7 @@ permalink: /service/
 ### **Journal Article Review**
 - Advances in Psychological Science (心理科学进展)
 - Applied Psychology Health and Well-Being
-- Applied Research in Quality of Life\
+- Applied Research in Quality of Life
 - BMC Psychology
 - BMC Public Health
 - British Journal of Mathematical and Statistical Psychology 
