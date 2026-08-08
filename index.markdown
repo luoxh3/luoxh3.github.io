@@ -27,7 +27,7 @@ My research aims to bridge methodological innovation, AI and machine learning, a
 <span style="color:#6398b0;">**(1) Advancing statistical methods for intensive longitudinal data**</span><br>
 <span style="color:#9b82bb;">**(2) Integrating machine learning and LLMs into dynamic analysis**</span><br>
 <span style="color:#6da588;">**(3) Translating these methods into clinical-health applications**</span><br>
-For more details, see the [**Research & Publications**](/research_publications/) section.
+For more details, see the [**Research & Publications**](/research_publications/) section, or check out my [**Presentations**](/presentations/) for conference talks and invited lectures.
 
 ---
 
@@ -51,4 +51,4 @@ For more details, see the [**Research & Publications**](/research_publications/)
 
 📬 **Feel free to reach out** to discuss research collaborations, methodological questions, or potential opportunities!
 
-*Last updated: Jul 2026*
+*Last updated: Aug 2026*

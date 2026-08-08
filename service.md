@@ -35,3 +35,11 @@ permalink: /service/
 - **Teaching Assistant (Lecture Instructor)**, Psychological Statistics I (Undergraduate level), Fall 2024
 - **Teaching Assistant (Lecture Instructor)**, Psychological Statistics II (Undergraduate level), Spring 2025
 - Teaching Assistant, Advanced Psychological Statistics (Graduate level), Spring 2025
+
+---
+
+## 🤝 Memberships
+- Member of the Society for Ambulatory Assessment (SAA), 2026 - present
+- Member of the "Measurement is the New Black" (MITNB) consortium, 2026 - present
+- Member of the International Society for Data Science and Analytics (ISDSA), 2023 - present
+- Member of the Chinese Psychological Society, 2023 - present
