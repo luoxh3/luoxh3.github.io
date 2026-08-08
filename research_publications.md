@@ -169,9 +169,3 @@ Substantive journals:
 3. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Dou, J., & Liu, H.\* (revised & resubmit). When standard two-method measurement planned missing designs reach their limits: Time-embedded adaptations for intensive longitudinal studies. *Behavior Research Methods*.
 2. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Castro-Alvarez, S., & Liu, H.\*, & Bringmann, L. F. (under review). Beyond aggregate accuracy: A Bayesian time-varying autoregressive model and its multilevel extension. [Preprint](https://doi.org/10.31234/osf.io/h9m8e_v1)
 1. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  Liu, Y., **Luo, X.**, Dong, J., Hu, Y.\*, Liu, H.\*, & Bauer, D. (under review). Two-stage estimation of latent variable regression models: A general, root-n consistent solution.
-
----
-
-## 🎤 Presentations
-
-Conference talks, invited lectures, and workshops have moved to their own page: see **[Presentations](/presentations/)** for the full list (8 conference presentations + 10 invited talks/workshops/guest lectures).

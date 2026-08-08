@@ -24,7 +24,7 @@ nav_order: 4
 
 ---
 
-## 🎓 Invited Talks, Workshops & Guest Lectures
+## 🧩 Invited Talks, Workshops & Guest Lectures
 
 11. **Luo, X.** (2026, Jun, Groningen, Netherlands). *A multi-agent conversational AI system for depression screening*. LaBlab Meeting, Department of Psychometrics & Statistics, University of Groningen.
 
@@ -38,7 +38,7 @@ nav_order: 4
 
 6. **Luo, X.** (2023, Dec, Beijing, China). *Modeling psychological processes as dynamic systems: Behind an award-winning research project on food cravings and unhealthy snacking*. Invited workshop for undergraduate students, Faculty of Psychology, Beijing Normal University. \[Based on work awarded **First Prize**, "Jingshi Cup" Academic Science and Technology Competition\] [event report](https://mp.weixin.qq.com/s/0ho8Q4C6Hc31-9QsWefp3w)
 
-5. **Luo, X.** (2023, Nov, Beijing, China). *From Macro to Micro Timescales: What and how can we gain from intensive longitudinal studies?* Faculty of Psychology, Beijing Normal University.
+5. **Luo, X.** (2023, Nov, Beijing, China). *From macro to micro timescale: What and how can we gain from intensive longitudinal studies?* Faculty of Psychology, Beijing Normal University.
 
 4. **Luo, X.** (2023, Jun, Online). *Intensive longitudinal studies: What, why and how?* School of Psychology, Sichuan Normal University.
 
@@ -47,7 +47,3 @@ nav_order: 4
 2. **Luo, X.** (2023, Jun, Beijing, China). *Building a research profile as an undergraduate: Preparing for postgraduate recommendation in psychology*. Invited guest lecture, undergraduate course, Beijing Normal University.
 
 1. **Luo, X.** (2023, Jun, Online). *Pathways into a research career: A panel discussion on graduate study in psychology*. Beijing Normal University at Zhuhai. [event report](https://mp.weixin.qq.com/s/F3U_mhFjjbTEB3gmstV1jQ)
-
----
-
-*For peer-reviewed publications and manuscripts, see the [Research & Publications](/research_publications/) page.*
