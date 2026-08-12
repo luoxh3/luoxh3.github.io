@@ -46,7 +46,7 @@ Substantive journals:
 ---
 ## Peer‐Reviewed Articles
 
-21. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Hu, Y.\*, & Liu, H.\* (In press). Examining within-person variability of each individual: How should we deal with non-varying individuals? *Behavior Research Methods*.  \[IF: 5/7.2, Q1\]
+21. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Hu, Y.\*, & Liu, H.\* (In press). Examining within-person variability of each individual: How should we deal with non-varying individuals? ***Behavior Research Methods***.  \[IF: 5/7.2, Q1\]
 
 20. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.+**, Dong, J.+, Liu, H.\*, Liu, Y., & Merkle, E. C. (2026). Bayesian evaluation for latent variable models: A tutorial on computing information criteria and bayes factors with the R package *bleval*. ***Psychological Methods***. \[[doi](https://doi.org/10.1037/met0000852)\] \[IF: 7.5/11.5, Q1\] 
     <details>
