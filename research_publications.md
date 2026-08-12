@@ -21,7 +21,7 @@ I develop and refine statistical models to address core challenges in intensive 
 
 ---
 ## 🚀 Publication Highlights
-**20 peer-reviewed articles (15 first-authored, 5 second-authored)**
+**21 peer-reviewed articles (16 first-authored, 5 second-authored)**
 
 First-authored papers published in
 
@@ -39,12 +39,14 @@ Substantive journals:
 - *Assessment* \[IF: 3/4.9, Q2\]
 - *Health Psychology* \[IF: 2.9/3.9, Q2\]
 
-**✚ 3 first-authored manuscripts** under review/in revision/revised & resubmit
+**✚ 2 first-authored manuscripts** under review/in revision/revised & resubmit
 
 *Notes: IF = impact factor \[for 2025 / the past five years\]; \*corresponding author(s);* \+*co-first authors.*
 
 ---
 ## Peer‐Reviewed Articles
+
+21. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Hu, Y.\*, & Liu, H.\* (In press). Examining within-person variability of each individual: How should we deal with non-varying individuals? *Behavior Research Methods*.  \[IF: 5/7.2, Q1\]
 
 20. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.+**, Dong, J.+, Liu, H.\*, Liu, Y., & Merkle, E. C. (2026). Bayesian evaluation for latent variable models: A tutorial on computing information criteria and bayes factors with the R package *bleval*. ***Psychological Methods***. \[[doi](https://doi.org/10.1037/met0000852)\] \[IF: 7.5/11.5, Q1\] 
     <details>
@@ -165,7 +167,6 @@ Substantive journals:
 ---
 ## Manuscripts Under Review or Revised & Resubmit
 
-4. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Hu, Y.\*, & Liu, H.\* (revised & resubmit). Examining within-person variability of each individual: How should we deal with non-varying individuals? *Behavior Research Methods*.
 3. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Dou, J., & Liu, H.\* (revised & resubmit). When standard two-method measurement planned missing designs reach their limits: Time-embedded adaptations for intensive longitudinal studies. *Behavior Research Methods*.
 2. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Castro-Alvarez, S., & Liu, H.\*, & Bringmann, L. F. (under review). Beyond aggregate accuracy: A Bayesian time-varying autoregressive model and its multilevel extension. [Preprint](https://doi.org/10.31234/osf.io/h9m8e_v1)
 1. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  Liu, Y., **Luo, X.**, Dong, J., Hu, Y.\*, Liu, H.\*, & Bauer, D. (under review). Two-stage estimation of latent variable regression models: A general, root-n consistent solution.
