@@ -24,6 +24,7 @@ nav_order: 5
 - Psychological Methods
 - Scientific Reports
 - Social Psychology of Education
+- Stress and Health
 
 
 ### **Journal Editing**
