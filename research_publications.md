@@ -46,7 +46,7 @@ Substantive journals:
 ---
 ## Peer‐Reviewed Articles
 
-21. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Hu, Y.\*, & Liu, H.\* (In press). Examining within-person variability of each individual: How should we deal with non-varying individuals? ***Behavior Research Methods***. \[[doi](https://doi.org/10.3758/s13428-026-03171-1)\] \[IF: 5/7.2, Q1\]
+21. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Hu, Y.\*, & Liu, H.\* (2026). Examining within-person variability of each individual: How should we deal with non-varying individuals? ***Behavior Research Methods***. \[[doi](https://doi.org/10.3758/s13428-026-03171-1)\] \[IF: 5/7.2, Q1\]
     <details>
         <summary>Click to expand for more details</summary>
         - <em>Download the full article</em> : <a href="/assets/pdfs/2026_BRM_Non-Varying Inidivduals.pdf">Download PDF</a><br>
