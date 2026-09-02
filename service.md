@@ -16,6 +16,7 @@ nav_order: 5
 - Death Studies
 - Humanities and Social Sciences Communications
 - Journal of Behavioral Data Science
+- Journal of Child and Family Studies
 - Journal of China Examinations (中国考试)
 - Journal of Pacific Rim Psychology
 - Mindfulness
