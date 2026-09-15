@@ -23,6 +23,7 @@ nav_order: 5
 - Multivariate Behavioral Research
 - Psych Journal
 - Psychological Methods
+- Psychometrika
 - Scientific Reports
 - Social Psychology of Education
 - Stress and Health
