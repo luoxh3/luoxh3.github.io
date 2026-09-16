@@ -39,7 +39,7 @@ Substantive journals:
 - *Assessment* \[IF: 3/4.9, Q2\]
 - *Health Psychology* \[IF: 2.9/3.9, Q2\]
 
-**✚ 2 first-authored manuscripts** under review/in revision/revised & resubmit
+**✚ 3 first-authored manuscripts** under review/in revision/revised & resubmit
 
 *Notes: IF = impact factor \[for 2025 / the past five years\]; \*corresponding author(s);* \+*co-first authors.*
 
@@ -172,6 +172,7 @@ Substantive journals:
 ---
 ## Manuscripts Under Review or Revised & Resubmit
 
-3. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Dou, J., & Liu, H.\* (revised & resubmit). When standard two-method measurement planned missing designs reach their limits: Time-embedded adaptations for intensive longitudinal studies. *Behavior Research Methods*.
-2. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Castro-Alvarez, S., & Liu, H.\*, & Bringmann, L. F. (under review). Beyond aggregate accuracy: A Bayesian time-varying autoregressive model and its multilevel extension. [Preprint](https://doi.org/10.31234/osf.io/h9m8e_v1)
+4. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Dou, J., & Liu, H.\* (revised & resubmit). When standard two-method measurement planned missing designs reach their limits: Time-embedded adaptations for intensive longitudinal studies. *Behavior Research Methods*.
+3. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Castro-Alvarez, S., & Liu, H.\*, & Bringmann, L. F. (under review). Beyond aggregate accuracy: A Bayesian time-varying autoregressive model and its multilevel extension. [Preprint](https://doi.org/10.31234/osf.io/h9m8e_v1)
+2. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Liu, Y., Liu, H.\*, & Bringmann, L. F. (under review). Beyond pre-post comparisons: A comprehensive effect size framework for intensive longitudinal interventions via time-varying modeling. [Preprint](https://doi.org/10.31234/osf.io/tm6k8_v1)
 1. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  Liu, Y., **Luo, X.**, Dong, J., Hu, Y.\*, Liu, H.\*, & Bauer, D. (under review). Two-stage estimation of latent variable regression models: A general, root-n consistent solution.
