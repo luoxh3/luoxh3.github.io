@@ -27,17 +27,17 @@ First-authored papers published in
 
 Methodological journals:
 - *Psychological Methods* \[IF: 7.5/11.5, Q1\]
+- *Psychometrika* \[IF: 2.9/4.1, Q1\]
 - *Behavior Research Methods* \[IF: 5/7.2, Q1\]
 - *Multivariate Behavioral Research* \[IF: 3.5/6, Q1\]
 - *Structural Equation Modeling: A Multidisciplinary Journal* \[IF: 3.5/5.8, Q1\]
-- *Psychometrika* \[IF: 2.9/4.1, Q1\]
 
 Substantive journals:
+- *Assessment* \[IF: 3/4.9, Q2\]
 - *Accident Analysis and Prevention* \[IF: 7.4/8, Q1\]
 - *Journal of Youth and Adolescence* \[IF: 4.5/5.9, Q1\]
-- *Mindfulness* \[IF: 4.1/4.9, Q1\]
-- *Assessment* \[IF: 3/4.9, Q2\]
 - *Health Psychology* \[IF: 2.9/3.9, Q2\]
+- *Mindfulness* \[IF: 4.1/4.9, Q1\]
 
 **✚ 3 first-authored manuscripts** under review/in revision/revised & resubmit
 
@@ -45,6 +45,8 @@ Substantive journals:
 
 ---
 ## Peer‐Reviewed Articles
+
+22. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Dou, J., & Liu, H.\* (Accepted). When standard two-method measurement planned missing designs reach their limits: Time-embedded adaptations for intensive longitudinal studies. ***Behavior Research Methods***. \[IF: 5/7.2, Q1\]
 
 21. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Hu, Y.\*, & Liu, H.\* (2026). Examining within-person variability of each individual: How should we deal with non-varying individuals? ***Behavior Research Methods***. \[[doi](https://doi.org/10.3758/s13428-026-03171-1)\] \[IF: 5/7.2, Q1\]
     <details>
@@ -172,7 +174,6 @@ Substantive journals:
 ---
 ## Manuscripts Under Review or Revised & Resubmit
 
-4. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Dou, J., & Liu, H.\* (revised & resubmit). When standard two-method measurement planned missing designs reach their limits: Time-embedded adaptations for intensive longitudinal studies. *Behavior Research Methods*.
 3. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Castro-Alvarez, S., & Liu, H.\*, & Bringmann, L. F. (under review). Beyond aggregate accuracy: A Bayesian time-varying autoregressive model and its multilevel extension. [Preprint](https://doi.org/10.31234/osf.io/h9m8e_v1)
 2. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  **Luo, X.**, Liu, Y., Liu, H.\*, & Bringmann, L. F. (under review). Beyond pre-post comparisons: A comprehensive effect size framework for intensive longitudinal interventions via time-varying modeling. [Preprint](https://doi.org/10.31234/osf.io/tm6k8_v1)
 1. <span style="display:inline-block;width:18px;height:18px;background-color:#6398b0;border-radius:3px;vertical-align:middle;margin-right:4px;"></span>  Liu, Y., **Luo, X.**, Dong, J., Hu, Y.\*, Liu, H.\*, & Bauer, D. (under review). Two-stage estimation of latent variable regression models: A general, root-n consistent solution.
