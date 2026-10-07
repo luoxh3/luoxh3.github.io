@@ -39,7 +39,7 @@ Substantive journals:
 - *Health Psychology* \[IF: 2.9/3.9, Q2\]
 - *Mindfulness* \[IF: 4.1/4.9, Q1\]
 
-**✚ 3 first-authored manuscripts** under review/in revision/revised & resubmit
+**✚ 2 first-authored manuscripts** under review/in revision/revised & resubmit
 
 *Notes: IF = impact factor \[for 2025 / the past five years\]; \*corresponding author(s);* \+*co-first authors.*
 
