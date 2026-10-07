@@ -21,7 +21,7 @@ I develop and refine statistical models to address core challenges in intensive 
 
 ---
 ## 🚀 Publication Highlights
-**21 peer-reviewed articles (16 first-authored, 5 second-authored)**
+**22 peer-reviewed articles (17 first-authored, 5 second-authored)**
 
 First-authored papers published in
 
